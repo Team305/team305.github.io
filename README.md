@@ -1,4 +1,5 @@
 # team305.github.io
+
 Checkpoint 1
 
 EGR 314 - ASU Polytechnic - Spring 2023
