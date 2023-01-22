@@ -1,0 +1,397 @@
+---
+Title: User Needs
+---
+
+# 2.0 User Needs
+
+## 2.1 Voice of the Customer Benchmarking
+### Search #1
+Keywords: Weather monitoring system
+
+Search Results Link: [Here](https://www.amazon.com/Logia-Monitoring-Temperature-Humidity-Direction/dp/B08M598J5B/ref=sr_1_5?crid=34UB3UR2GP4BJ&keywords=weather+monitoring+system&qid=1673925816&sprefix=weather+mo%2Caps%2C162&sr=8-5)
+
+1. Logia 7-in-1 Wi-Fi Weather Station
+
+![Figure 2A: Logia 7-in-1 Wi-Fi Weather Station.](https://media.discordapp.net/attachments/796639551938101278/1066798898011705375/Figure_2a.png?width=659&height=619 "Figure 2A: Logia 7-in-1 Wi-Fi Weather Station.")
+
+* Price: $159.99
+
+* Vendor: Amazon
+
+* Description: This item is a 7-in-1 weather monitoring system. It includes; Wind Vane, Anemometer, Temp/Humidity Sensors, Rain Collector, UV and Solar Sensors, Level & Antenna. It does also include Wi-Fi features.
+
+#### Positive Comments
+|Voice of the Customer|Restated Customer Need|
+| --- | --- |
+|Pretty easy to set up with a couple caveats. <br> After basic set up like loading batteries and some minor assembly, you are instructed to connect to the unit with either your phone or PC. My Iphone never found the unit. After some patience and several attempts my PC finally found the unit. Then you go through setting up the unit on a website you are directed to. <br> 1\. Know your GPS coordinates before you attempt. Longitude and latitude is required. No biggie. if you have the compass app on your Iphone it will tell you. Only need the first two/three digits. <br> 2\. And important! Know your time zone. And I don't mean PST or PDT. I mean based on your Greenwich time zone. West coast US is -8. I had no idea and had to do some research to find this out.|The product is easy to use. (explicit) <br> The product works without errors (latent).|
+All in all pretty good. Installation was easy and pairing/setup worked well (follow directions precisely!) Weather underground is working fine. <br> First issue is that "feels like" doesn't work - it just reads the same value as outside temp. <br> Sunrise and sunset function does not work either - sunrise and sunset seem pegged at 6AM and 6 PM respectively. <br> So.... 2 disappointments (could be user issues but I see nothing in the documentation to address)|The product's installation was easy (latent). <br> The product’s pairing was easy (latent).|
+Pros: <br> large and nice looking display <br> 7 temperature metrics <br> Wi-Fi connection to post on WU and see on phone <br> Simple installation <br> Lower cost than many stations <br> Compact outside sensor station <br> I purchased a used one described as " new”. Condition was really “good” since there were signs of being used. All parts were in the box. <br> I had to manually sync the indoor sensor, but the outside sensor was already synced. Similar WiFi is set up as my Sainlogic station but no APP. | The product is affordable considering all the features (explicit). <br> The size of the product is desirable (explicit). |
+
+#### Negative Comments
+
+I found that setting up the clock on this unit was by far the most difficult and also the most critical for other functions such as moon phase and sunrise. Seems they could make it a bit more intuitive.
+Only a week in so far but we had an atmospheric river here yesterday in the NW and rain totals were right on with local weather reports. Need to move the unit to a more open area (my roof) to get a better feel on the wind reporting. Overall, I am satisfied so far.
+The product connects seamlessly to WiFi devices (latent). 
+The product takes an average measurement to improve measurement accuracy (latent). 
+Cons
+Appears to be inaccurate compared with other similar stations.
+Separate indoor temperature and hydrometer sensor that requires batteries
+No APP to view station online, requires WU site to see
+No mounting post & hardware
+The product takes accurate measurements (explicit). 
+The product has nice housing and mounting equipment (explicit). 
+So far the accuracy appears off for temperature wind and rain. This is compared to other stations close by on weather underground. All appear to be lower than what is expected. I will test when I get a chance. 3 star rating for accuracy and lack of APP. 4 star on nice display.
+The accuracy of temperature, wind, and rain measurements are better than other weather stations (explicit).
+The product has a mobile app that allows users to access data (explicit). 
+
+
+Search #2
+Keywords: Greenhouse Weather Station
+Search Results Link: Link Here
+2. Hygrometer Humidity Gauge Meter - Wireless Indoor Outdoor Thermometer with 1 Remote Sensor - Room Thermometer for Home, Temperature and Humidity Monitor for Greenhouse Nursery Garden, 200ft/60m Range
+
+Figure 2B: Hygrometer Humidity Gauge Meter.
+Price: $19.99
+Vendor: Amazon
+Description: This model of temperature sensor allows users to read accurate temperature and humidity of two rooms. This information is clearly displayed on the 4 inch screen. The screen also serves as the hub for the wireless communication needed. The range is said to be up to 200 ft allowing for users to place the sensor outside or across a room comfortable knowing its transmitting the data. 
+
+Positive Comments
+Voice of the Customer
+Restated Customer Need
+I was especially happy to have a screen that can be lit up to read it. We’ve been using it for several weeks now, including when the recent arctic snow/windstorm came through just before Christmas. It was very important to be able to monitor the temps outside and respond to the needs of the chickens. Our wind chills were down to -30/40s, and that meant most especially staying on top of food and water for our hardy little bantam breeds. The hygrometer did read the humidity higher than I would have liked, but the girls haven’t shown any signs of suffering for it. They are tough little chickens, and having this thermometer/hygrometer combo felt very helpful during such a hard patch of weather, and has helped me learn a lot about the outer limits of what our chickens can tolerate. I am also very glad that I can order several more remotes to sync with the station. They just might be handy to have in the future to monitor the garage temps, and possibly the open outdoor temps. The price to buy two extra remotes breaks about even with buying a set that comes with 3 remotes, but buying the starter unit for this for a little less gave us the chance to try it out and make sure we liked how this unit worked for us first. As long as the unit keeps performing strongly for us, I’d happily buy a second unit if needed.
+The product has a screen that is easily readable in low-light conditions (explicit).
+The product has the ability to monitor and adapt to the environment (latent).
+I've been using this thermometer in my greenhouse for a couple months now. I actually like this one more than the last one I bought, even though that one cost me more than twice as much. I use 3 indoor/outdoor units total, all different brands. The readings on this one always match up very closely to the other 2, which tells me that it's accurate. Out of the 3, this one has the largest display. The readings show up darker on this one too, which makes them easier to see. My favorite thing about it, though, is the light. One of my other ones lights up, as well, but you have to lay your palm over the top of the display just right to get it to come on. This one, you just tap the screen with your finger. I know that doesn't seem like a big deal, but it does make it easier when you need to keep a check on overnight greenhouse temps during the winter, but don't wanna keep getting out of bed to fiddle with a thermometer to do so. The color of the light is better on this thermometer too. The darker blue makes the readings easier to see. I'm very happy with this purchase. It's a great little indoor/outdoor thermometer for a very reasonable price.
+The product has accurate temperature reading with large and clear display (explicit).
+The product is easy to activate backlight features (explicit).
+I purchased this to put the outside sensor in our well pump house to make sure nothing freezes. It is accurate and easy to read. I do not know about the battery life as I've only had it for a few weeks.
+The product is modular and is accurate and easy to read (explicit).
+The product has a long battery life (latent).
+
+
+
+
+
+Negative Comments
+I bought this as a potential companion to my La Crosse Technology unit which has served me well.
+
+On setup I placed this new unit next to my La Crosse and later mounted the outside temp sensor side-by-side as well just to compare. The new Vauno temp screen activated when next to the unit no problem, but I let it sit overnight inside before attaching it outside next to my La Crosse sensor.
+
+By the time I got back to my kitchen table the temp/humidity displays were blank ( -- ). So I gave it some time - no display after a day. Called Amazon & sent a "problem" message to the vendor thinking I needed a replacement sensor - then waited a day before just asking Amazon for a replacement.
+
+Got it yesterday - same routine - screen activates initially as does the outdoor sensor and fails when I walk the 30 feet to my front door overhang to mount.
+
+It advertises a wireless range of 197 feet - nope, not by a long shot - neither unit, neither time.
+
+The product has a reliable temperature sensor that has good range when receiving data (explicit).
+The product is modular and has Wi-Fi compatibility with different devices (latent).
+I received the Hygrometer Humidity Gauge Meter - Wireless Indoor Outdoor Thermometer with 1 Remote Sensor on September 11, 2022. Yesterday I looked at my thermometer and the outside temperature reading was just lines blinking, remote died. The inside thermometer seemed to be working until I realized it has been the same temp for 2 days. It is now October 24, 2022 within a little over a month the unit and remote has stopped working and is now trash in the garbage. I should have bought a better brand. I now have to purchase a new unit. I don't have time to send it back, just too angry and not worth it.
+The product has a long battery life (explicit).
+The controls for the product are reliable and high quality (latent).
+We set up the indoor thermometer/receiver about 15 ft from the outdoor device. The thermometer inside received the signal from the outdoor device for a couple of days, but then the signal was lost. I moved both devices to new locations that were less than 10 feet apart, and again it worked for a couple days and then the outdoor signal was lost. I moved both again, this time about a foot away and through a window, and it is still working after about a month. Unfortunately the location is terrible and gets sun for several hours, so the temp isn't reliable during those hours. I would not recommend buying this.
+The WiFi range for the product is sufficient for general use without connectivity issues (explicit).
+The temperature sensor reads accurately in direct light for long periods of time (latent). 
+
+Search #3
+Keywords: Automated Greenhouse Monitoring System
+Search Results Link: Link Here
+3. Govee WiFi Thermometer Hygrometer H5051, Bluetooth Indoor Temperature Humidity Monitor with App Notification Alert, Smart Humidity Sensor for Greenhouse Wine Cellar, 2 Years Free Data Storage Export
+
+Figure 2C: Govee WiFi Thermometer Hygrometer.
+Price: $45.99
+Vendor: Amazon
+Description: The Govee hygrometer is a wifi and app based smart weather station that allows its users to quickly and remotely access the current conditions of a room, greenhouse or outdoors. The Sensor tracks both humidity and temperature with great accuracy allowing for precise data. The sensor information is transmitted and stored via wifi and the app allows for users to have a record of all the recorded data for up to 2 years.
+
+Positive Comments
+Voice of the Customer
+Restated Customer Need
+I am an IT professional so I will be harsh on technical reviews I write. But in this case I’m fairly impressed for the price. I have had a week with the unit and feel confident I fully grasp how it works and what to expect so I will share my thoughts with those who may be considering one. First off - I am full time RV. I have a big motorhome and it’s often at a park left in the sun during the day. I may be out running around errands or hiking or what ever and my pets are left inside the camper. If the power fails or AC units or breaker trips... my pets are inside. So, I have a full time hotspot in my coach so devices are always accessible remotely from my phone. In the past I have simply used my webcam to look at the thermostat but that won’t send you alerts like this unit does and the reason I bought one. So first of. The alert feature works great considering the following things:
+- correctly set up WiFi on the device, 2.4G
+- especially in the case of iPhone, run the gauntlet of security settings to ensure location and push notifications are always allowed
+- the device has update intervals- I set mine to 30 min. This conserves it’s battery. So it only has to talk to WiFi every 30 min. So this means potentially up to 30 min delay in notification.
+- when you are in close proximity to the device (I assume this is why it wants location data) it will attempt to connect bluetooth which is much lower power consumption and thus constantly active.
+- the graphs from the day if you are away will have major holes that update as soon as you get in proximity.
+
+Some dislikes:
+- Device is not backlit. Probably
+Also due to battery life concerns
+- slides up out of the wall mount holder (included) easily, which I suspect will become a projectile in transit when used in an RV.
+- directions could be better. As usual you get a huge book and shed a tear when you find only two pages of it are in your language. No pics no clear direction on things just general guidance. Granted the app is not all that complicated and it’s all done via app. Could be better for non tech savvy people.
+- if you intend to use this on a vacation home or place you will be away from long periods of time, the delay is something to consider. also you cannot remotely manage the device. Have to be in bluetooth range to make any changes to it. Such as setting alert thresholds
+
+Overall I find that there is much more to be liked than disliked about this device and would recommend it. Just be advised of some of the limitations. I am happy with the purchase, it works for what I need it to.
+
+P.s. what is it with the “ Warmth “ question on this review ? I gave that 4 stars. lol. Accuracy, and easy to read I can understand. 5 stars. “Warmth” ? Well it’s as warm as it says it is on the face I guess...
+The product price point is fair considering the performance of the product (explicit). 
+The product is able to work seamlessly with mobile devices (explicit).
+The product produces figures and graphs as part of the mobile device app features (explicit).
+I have ordered multiple Govee temperature-humidity sensors. I have three each of models H5075 (Bluetooth only with data display), H5051 (WiFi and Bluetooth with data display), and H5053 (older WiFi version with hub, no data display, but weather resistant). I also have one model H5179 (WiFi and Bluetooth with no data display).
+
+First, I would like to say that I was surprised and pleased by the accuracy (or, more precisely, the repeatability) of the data with these units. Before deploying them to their final locations, I lined them up next to each other to see how well they agreed on the temperature and humidity. They did so to within the specified accuracy, so I trust the specifications. (By contrast, when I have looked at racks of thermometers in stores, all in the same place, I have been struck by the wide range of readings, including some wild outliers.)
+
+I wanted to use one sensor outside. Models H5051 and H5075 clearly would not stand up to rain; I hoped that perhaps model H5179, which looked pretty well sealed, would. It did not; it died after the first heavy rain and never recovered. Govee does not claim that it can be exposed to rain, so I do not blame them. I report the fact here in order to save others from wasting their money on an unsuccessful experiment.
+
+Eventually I found on Amazon the older (obsolete?) model H5053 set. It is advertised as weather-resistant. I asked Govee about it, and they advised not exposing it directly to rain. I mounted it under a porch, near the outside but not directly exposed to rain. It has been running nicely for more than a month. In the end, I also ordered an Ambient weather station, whose temperature-humidity sensor does work with direct exposure to the elements.
+
+If you do not need to access the data when far from the sensors, the model H5075 units are to be preferred. They are much cheaper than the H5051 units with WiFi support. The Bluetooth-only units work very nicely in my home and on my phone when I am at home.
+
+I do wish that one had the option to display dewpoint temperature instead of or in addition to relative humidity. The firmware in the units probably cannot be updated, but the phone app could be improved to offer this option.
+
+I cannot comment on battery life, as I have not had the units long enough. Also, I do not use Alexa.
+
+One final comment. As others have reported, getting the units set up and configured is sometimes not as straightforward as one would like. I recommend patience and persistence. Sometimes initial attempts failed, but in the end all the units got connected.
+The product has a display screen which shows live data (explicit).
+The product is accurate and reliable (explicit).
+The product is waterproof (latent).  
+In August I reviewed the Govee Bluetooth Smart Hygrometer/Thermometer, on my website, cigarcraig.com, but I really wanted more from it. Recently the WiFi version has become available, so I jumped on it and picked one up to test out side by side with the Bluetooth version. With the bluetooth version, I found that I had to be in the same room as the unit, which is fine if I wanted to know the conditions inside a given humidor without opening it up and looking in, or get alerts if things are going out of whack. This is all well and good, and the historical information that the unit logs is nice to have also. I did wish for a  longer range solution, then along comes the WiFi version. The only difference is a small WiFi symbol in the lcd screen. The free app is the cool part, and I can only speak to the iOS version, but I was able to add both units, and I have no reason to believe that there's no reasonable limit to the number of units you could add, assuming you name them differently in the set up.
+
+I did fumble a bit with the setup directions, they weren't quite as concise as they could have been. I had to read through the Q&A to find the directions to connect to my home WiFi, but once I did find it, it couldn't have been easier. I would suggest that the company might put documentation on their website as a resource as well as I actually looked there before reading further into the printed manual.  If the documentation is the only downside I'm not going to complain.
+
+For ease of use, this gets a thumbs up, and the unit appears to be reasonably accurate, compared to both its Bluetooth sibling and other digital hygrometers. Also, the cigars in the humidors that the hygrometers are in smoke fine, the ultimate test, in my opinion. As far as price goes, the WiFi version is almost twice the price of the Bluetooth version, which is a bit steep, but the functionality is worth the extra cash. Are there cheaper items on the market that do the same thing? Sure there are. Maybe they don't provide the data logging that these units do, nor do they have a family of other home automation products that work with the same app like lighting and doorbells and other fun stuff if you're into that.
+The device has memory which stores previous measurements (explicit).
+The product is modular and works with other units of the same device (explicit). 
+The product produces and relays accurate data via Wifi (explicit).
+
+
+Negative Comments
+I purchase three of these units over a couple of years. Initially I liked them ams all worked. I used the to monitor temp and humidity when boing back and forth between two homes since I wanted to be able to know my HVAC systems were working properly when I was away for months at a time. I now have to conclude that I can no longer trust them. They may be fine When you are in Bluetooth range, both they are totally unreliable over WiFi when I am out of town and need them most. Two units at one location failed to reconnect with WiFi. Even though they had good WiFi signal and sufficient battery power. The first unit that I purchased and that I had at another location worked fine for over a year, and suddenly it stopped communicating by WiFi on Oct 12. Nothing I can do remotely will reconnect it or refresh it. Even though it says it has been refreshed, it will not display any data past Oct 12. The batteries are good and it is in the same location it has always been at in that home. WiFi signal is good. But it is now worthless to me. If I cannot rely on them to stay connected, they are really worse than useless. Govee replaced one of the units, but I am no longer willing to keep trying after this latest experience. Fortunately I have another WiFi temp and humidity monitor from another company and both of them continue to work flawlessly. I was intrigued by the Govee since it was smaller and I thought I would add more monitoring locations without needing to run a 120VAC line. But without now being a le to leave town and have confidence in them, I cannot recommend them. The concept is fine, but there is definitely a product design issue. My advice is to look elsewhere. I am fully familiar technically with such products and the WiFi in both locations is very fast and is not the problem. I have no issue monitoring my other devices remotely. Just the Govees.
+
+The product produces reliable and accurate data (explicit). 
+The product capabilities are consistent - whether it is controlled in person or remotely (explicit).
+The product is made from high quality materials (latent).
+Very disappointing. Bought this for a trip to Fort Wilderness (Disney World) campground as we took our dog. As we had heard about random power outages at the campground we wanted to make sure we were aware if the power went out or the temperature began to get too warm for her safety so we could make it back right away for her safety. Our jet pack ended up not working properly so we figured we’d just use the campground WiFi. When it wouldn’t stay connected I contacted Govee’s customer support only to be told that, if the internet doesn’t have a password that can be entered, the unit will not work. As the campground WiFi was not password protected the unit was essentially a paperweight as it would not notify us of anything. As a result we ended up spending less time at the parks to ensure our dog’s safety. We would not have bought this product had we known this limitation and were just outside the return window when we were notified of this information otherwise we would have returned the product. Don’t waste your money on this inferior product.
+The product has no problem connecting to WiFi and works properly (explicit). 
+The product has no limitations as to what network it can connect to (explicit). 
+Battery life is not desirable. I wish I could've bought something that plugged into the wall. I had to change the batteries twice in one year. Three AAA batteries each time. The wifi function won't connect properly to my network but the Bluetooth works. The wifi radio I have is in the same room because I use power line wifi access points. I can stream video to my tv in the same room perfectly fine. I assume this device just doesn't work with TP-Link Wi-Fi access points.
+Ultimately, the device doesn't fit my needs as I am out of range for Bluetooth and I wanted to check humidity and temperature without getting in range. This review is after owning the product for 10 months.
+
+Minor annoyance...
+The stand it comes with is trash... It tips over easily. This is the second Govee product that I purchased that didn't pan out. I'm done buying anything from this company.
+The product has a long battery life (explicit). 
+The product can be powered with a normal power supply and with batteries (latent). 
+The product hardware is stable, easily assembled, and easy to use (latent). 
+
+
+Search #4
+Keywords: Automated Greenhouse System
+Search Results Link: Link here
+4. AC Infinity Controller 69, Smart Environmental Controller with Temperature, Humidity, Timer, Cycle, Schedule Controls, for Grow Tent Cooling Ventilation Lighting
+
+Figure 2D: AC Infinity Controller 69.
+Price: $69.99
+Vendor: Amazon
+Description: This weather sensor was specifically designed for application within grow tents or greenhouses and allows for full control and many key sensors relay key information via both wifi and bluetooth connections. The sensors it uses include temperature, humidity, VPD, and more allowing for users to know almost every key factor in aiding in plant growth. This also includes an app that can allow for control and reading of the snesores as well as a display included in the main housing for clear information and use. 
+Positive Comments
+Voice of the Customer
+Restated Customer Need
+Wow, managing perfect VPD levels has never been so INEXPENSIVE and EASY! And I can control and monitor from ANYWHERE! Yes, you must be using one of the AC Infinity exhaust fans to use this device. The UI of the mobile app is not very intuitive, but once you figure it out you are good to go. You need to keep your tent around 80 degrees during the day, and I recommend you use the Lasko personal space heater which is very safe in a small space like a grow tent. Highly recommended!
+The product is easy to use (explicit). 
+The product works no matter where you are (explicit). 
+The UI for the product is easy to understand and intuitive (explicit). 
+NEEDS WIFI. Other than that I love it. Anyone looking at A/C Infinity vent. fan products, I suggest getting the controller with wifi as it will make life away from grow room so much easier. Don't purchase this model, just wait until release next month (today is 6/21/22)
+The product has features that are easily accessible to those without technological affinity (latent). 
+The product is able to connect and transmit data via WiFi (explicit). 
+This setup has made automation of our mushroom grow tent so much better. The controller works so well for controlling fans, heater and humidity to keep our mushrooms in the perfect growing conditions. I do wish more inputs/outputs were present, however we are making due quite well. Controls are easy to use push buttons and the display reads easy in all light conditions.
+The product is easy to use and work seamlessly with smartphones (explicit).
+The product is waterproof (explicit). 
+
+Negative Comments
+ Wifi is great for this.
+I bought whole setup ac infinity 3 weeks ago, finally got everything running smoothly.
+Then last 2 days 69 pro has been failing to maintain temperature and humidity.
+
+NOTE Actually, the main settings screen has been doing this since day 1.
+I just shrugged it off and used the automations screen instead.
+
+But now they're not working right.
+
+But I checked, and my controller 69 main screen does work.
+
+So basically the t6 quiet inline fan, controlled by 69 Pro, for some reason keeps getting stuck in a gear, sometimes high (over cooling) sometimes low gear (overheating)
+Either way is bad.
+So far Customer service is ZERO!
+I checked Amazon to see if anyone in the reviews had a solution, But GUESS WHAT...
+THERES NO REVIEWS ON THIS ITEM 🤔🤔
+I left a review on the ac infinity website, and it seems they deleted it.
+Google says they don't take phone calls, so I emailed their support email, and got an automated message saying it won't be today.
+
+The product was constructed to last a long time and was built for reliability (latent). 
+The product is simple in design and not time consuming to fix (explicit).
+The product is automated and requires very little maintenance. 
+So I don't own any other AC Infinity products nor had I planned on buying any.
+
+I made the mistake of assuming this would work as a basic thermometer, hygrometer and/or show Vapor Pressure Deficit, etc.
+
+However, it doesn't even come with a power cord or any way to turn it on without already owning AC Infinity products designed to work with this controller. Apparently it gets it's power by connecting it to a grow light or fan or something.
+
+So yeah maybe it works great for that small niche of products out there but do NOT buy this expecting to get ANY use out of it what-so-ever, unless you have AC Infinity products designed to work with this thing.
+The product can be used with a power supply and with batteries (explicit). 
+The product works seamlessly with other devices (latent). 
+You can only use AC Infinity products and they cost much more than other products of similar or better quality. The light i would need is over $500 and so i found a better and cheaper one somewhere else. I did purchase the cloud line inline fan 6” supposed to be quiet but it is so loud i can't hear my tv or someone talking. I could have bought another version elsewhere for a much cheaper price. I should have went with vivosuns controller for $20 more and i could use any product i wanted. I found a good humidifier with a humidistat and so problem solved for humidity control and a timer on my light. So far no need for a controller that will break the bank!
+The product is affordable (explicit). 
+The product is automated without a need to maintain regular functionality (latent). 
+
+Search #5
+Keywords: Link4 Corporation Growing Computers
+Search Results Link: Link Here
+5. Link4 Corporation LC99511 iPonic 614 Environmental Controller
+
+Figure 2E: LC99511 iPonic 614 Environmental Controller.
+Price: $1,095
+Vendor: Amazon
+Description: Computerized growing control unit 
+
+Positive Comments
+Voice of the Customer
+Restated Customer Need
+On my second harvest and this controller hands down is the easiest to use had problem with controllers in the past use to run timers until I found out they don't let me know If something is wrong av went out and lost everything get to hang out and check in don't have to stay chained to my house get to change setting with my app easily and I don't have to worry saved a couple bucks get to retract my steps in my crop and get to tweak things much easier worth the investment.
+The product is easy to use (explicit).
+The data collected is stored on a cloud for backups (latent). 
+
+
+Great commands and graphic history. The sensors are fragile and after 2 years I needed chance for other.. this is my only problem and just this I not give 5 stars
+The sensors are robust and do not break easily (explicit). 
+The product is built to last a long time, rather than being designed to break (latent). 
+One of the best controllers on the market. Easy to set up and if you have an issue they have awesome tech support. I have had mine for 5 years with no issues. One of the reviews said the sensor has leds that are super bright and will cause hermaphrodite is wrong. Again I have had zero issues with mine or my crops.
+The product is easy to set up (explicit). 
+The product is built to last a long time, rather than being designed to break (explicit).
+The product does not interfere with the dark cycle of plants - which is necessary for scheduled flowering and fruiting (explicit). 
+
+
+Negative Comments
+Really, uh there are way to many things to write. The sensor malfunctions randomly and often. There customer service is a guy named al or something, which constantly sends me 10,11,and 12 task functions that involve me busting out a actual volt meter and literally diving in. I’ve asked them why I am even asked to do this and al’s reply is. “Well.. if you send it to us we really can’t imitate the problem here. Plus almost every unit sent to us for repair turns out to be user error.” For real they even went as far to tell me to use only certain functions on the controller and not use other features all together.”Not Covered Under Warranty” So he literally told me to not use there environmental controller for its intended use. Unreal so now I have a $1300 light timer that is no good weather for the sensor or for the guaranteed function of the electrical aspect of the controller. Also just came out with a new Cloud system which pretty much forces you to pay a monthly fee to have the basic functions that you had for free just for buying the controller. 
+
+The product is easy to set up and accessible to those without technological backgrounds (latent). 
+The product allows other sensors to be hooked up manually (explicit). 
+The product has a free WiFi service that does not charge monthly fees (explicit). 
+This is my second unit after 3 days of use channel 1 and 8 stop working. I googled the replacement parts to a total of $15.66. I called the company asking for a service ticket and got a reply with a bill of $600 to repair it. When I asked why is this so expansive I got no response and my ticket was deleted. Horrible customer service I’ll make sure to never use this company or it’s products again !!!
+The product has multiple channels that different sensors can be hooked up to (latent). 
+The product is easily repaired without the need for significant investments to be made (latent). 
+The only sensors that work with the Link 4 units are very low quality sensors that they charge you hundreds of dollars for and need constant replacing- the temp/humidity sensor is literally just a small piece of plastic glued to a board... For the price, I expected more.
+The product is made from high quality materials (explicit). 
+The product operates as advertised (explicit). 
+
+
+2.2 Organizing User Needs
+
+Figure 2F: Jamboard of user needs organized into categories.
+Figure 2G: Jamboard of compiled user needs into Meta User Needs. 
+
+2.3 Ranking
+Table 2A: Ranking table of Meta User Needs defined in the Jamboard. Rank was determined by each member of the team voting between 1 and 3, then calculating an average.
+Meta User Needs
+Reasons 
+Level of importance(1-3)
+The product is functional, intuitive to use, fix, mobile, and has a variety of sensing capabilities.
+The product needs to work in order to be successful. 
+3,3,3,3   12/4
+3 Stars
+The product should run at both a low voltage as well as a low current, in an enclosed system including potential fail-safes.
+One of the main requirements of the project is that the main voltage is <3.3V and this allows for safety of the users. 
+1,2,2.5,2   7.5/4  
+1.875 Stars
+The product should be durable, long-lasting, reliable, able to resist elemental damage, and manufactured at a low cost.
+If the product breaks within the first 20- minutes of use it is not worth anything.
+3,1,3,1   8/4  
+2 Stars
+The product should allow users to customize the size and mobility of the product to allow for easier use.
+The users should be able to make the product useful to their environment so that it is more personal and helpful. 
+2,1,1.5,2   6.5/4  
+1.625 Stars
+The product produces accurate data, is easily set up, has reliable power, and can utilize Wi-Fi to send/store data.
+Wi-fi connection allows consumers to directly access the information being registered by the product. 
+3,3,3,1   10/4  
+2.5 Stars
+The product can seamlessly connect via WiFi to other devices, can have adjustable parameters, and has an easily accessible database.
+The product software and code should not stop the user's experience from being positive. 
+3,2,2.5,3   10.5/4  
+2.625 Stars
+
+
+2.4 Compilation
+ Design
+Meta: The product is functional, intuitive to use, fix, mobile, and has a variety of sensing capabilities.
+The product is affordable (explicit).
+The product utilizes treads for motor control stability.
+The product is simple in design and not time consuming to fix (explicit).
+The product utilizes wheels for motor actuation.
+The product can be used with a power supply and with batteries (explicit).
+The product is automated without a need to maintain regular functionality (latent).
+The product should be mobile.
+The product should offer a variety of sensors.
+The product should avoid unnecessary bulk.
+The product should be lightweight.
+The product looks aesthetically appealing.
+The product is waterproof (explicit).
+The product is made from high quality materials (explicit).
+The product can sense the light being emitted within the area (needed for growing plants).
+The product has a display screen which shows live data (explicit).
+The product is easy to activate backlight features (explicit).
+The product has the ability to monitor and adapt to the environment (latent).
+ Interactivity
+Meta: The product can seamlessly connect via WiFi to other devices, can have adjustable parameters, and has an easily accessible database.
+The product should be clear if it is on or off.
+The UI for the product is easy to understand and intuitive (explicit).
+The product is easy to set up (explicit).
+The product has the ability to lock software-wise.
+The product is easy to use (explicit).
+The data provided from the product is stored and accessible.
+The product's installation is easy (latent).
+The product has a free WiFi service that does not charge monthly fees (explicit).
+The data collected is stored on a cloud for backups (latent).
+The product gives users warning in case of severe weather issues.
+The product works seamlessly with other devices (latent).
+The product capabilities are consistent - whether it is controlled in person or remotely (explicit).
+The product should include a warning if one sensor is not reading.
+Users have easy access to the database where data is sent.
+The Product allows for users to adjust parameters.
+The product’s pairing is easy (latent).
+The product produces figures and graphs as part of the mobile device app features (explicit).
+The product works no matter where you are (explicit).
+The product is accessible to those without technological backgrounds (latent).
+The product has no limitations as to what network it can connect to.
+The product does not interfere with the dark cycle of plants - which is necessary for scheduled flowering and fruiting (explicit).
+ Component Functionality
+Meta: The product produces accurate data, is easily set up, has reliable power, and can utilize WiFi to send/store data.
+The product operates as advertised (explicit).
+The product is easily repaired without the need for significant investments to be made (latent).
+The product should be able to connect and send data over Wi-Fi.
+The product’s motors are bidirectional and allow for some manual control.
+The product hardware is stable, easily assembled, and easy to use (latent).
+The product has a long battery life (explicit). 
+The product produces reliable and accurate data (explicit).
+The product is modular and works with other units of the same device (explicit).
+The device has memory which stores previous measurements (explicit).
+The temperature sensor reads accurately in direct light for long periods of time (latent).
+The WiFi range for the product is sufficient for general use without connectivity issues (explicit).
+The product has clear directions included.
+The product takes an average measurement to improve measurement accuracy (latent).
+Products UI/System use should be easy to understand ages <12 years should understand.
+The product takes accurate measurements (explicit).
+ Manufacturing and Materials
+Meta: The product should be durable, long-lasting, reliable, able to resist elemental damage, and be manufactured at a low cost.
+The overall product is built to last a long time, rather than being designed to break (latent).
+The sensors are robust and do not break easily (explicit).
+The product is built for reliability (latent).
+The Materials used are eco friendly
+The environmental impact of the product is carbon neutral
+  The product is affordable to construct
+
+ Safety
+Meta: The product should run at both a low voltage as well as a low current, in an enclosed system including potential fail-safes.
+The product should not have any exposed direct current that could endanger users.
+The product should have fuses or fail-safes in cases of too much power running through some part.
+The wires used within the product are hidden unless directly needed.
+The product should be powered on no higher than 3.3V based products
+The product works without errors (latent).
+ Customization
+Meta: The product should allow users to customize the size and mobility of the product to allow for easier use.
+The product has multiple channels that different sensors can be hooked up to (latent).
+The product sensors should be easily replaced.
+The product allows other sensors to be hooked up manually (explicit).
+The product can utilize a moisture sensor for soil.
+The product has multiple motor control ports in case different fans need to be turned on.
+The product can be offered in multiple sizes.
+The product can be offered in multiple colors. 
+The product can be offered in multiple styles.
+The product can hang from the ceiling.
