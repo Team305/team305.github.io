@@ -1,2 +1,2 @@
-# team305.Checkpoint1.github.io
+# team305.github.io
 hi
