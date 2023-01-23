@@ -152,8 +152,8 @@ Negative Comments
 
 ## 2.2 Organizing User Needs
 
-[Figure 2F: Jamboard of user needs organized into categories.](/photos/Figure2f.png "Figure 2F: Jamboard of user needs organized into categories.")
-[Figure 2G: Jamboard of compiled user needs into Meta User Needs.](/photos/Figure2g.png "Figure 2G: Jamboard of compiled user needs into Meta User Needs.")
+![Figure 2F: Jamboard of user needs organized into categories.](/photos/Figure2f.png "Figure 2F: Jamboard of user needs organized into categories.")
+![Figure 2G: Jamboard of compiled user needs into Meta User Needs.](/photos/Figure2g.png "Figure 2G: Jamboard of compiled user needs into Meta User Needs.")
 
 ## 2.3 Ranking
 
@@ -166,7 +166,7 @@ Negative Comments
 | The product produces accurate data, is easily set up, has reliable power, and can utilize Wi-Fi to send/store data.                  | Wi-fi connection allows consumers to directly access the information being registered by the product.                   | 3,3,3,1   10/4  <br>2.5 Stars       |
 | The product can seamlessly connect via WiFi to other devices, can have adjustable parameters, and has an easily accessible database. | The product software and code should not stop the user's experience from being positive.                                | 3,2,2.5,3   10.5/4  <br>2.625 Stars |
 
-2.4 Compilation
+## 2.4 Compilation
 1. Design
     1. Meta: The product is functional, intuitive to use, fix, mobile, and has a variety of sensing capabilities.
     2. The product is affordable (explicit).
