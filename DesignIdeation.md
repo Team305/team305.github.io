@@ -1,7 +1,4 @@
 # 4.0 Design Ideation
-From the generated user needs and product requirements, Team 305 was able to begin design ideation and concept generation. Each member contributed equally to idea generation, though due to time constraints it was completed individually rather than as a group. The first iteration of ideas was completed using a “shotgun” approach, where any and all ideas were placed into a list - as long as they were relevant to the group charter and mission statement. There was no need to brainstorm once the list was approaching ~100 ideas. 
-From there, ranking, organizing, and idea recombination was possible. It was completed by creating a ranking system and placing the rank on each sticky note. A rank of 5 was deemed to be most important, while a rank of 1 was decided to be least important. The ranks allowed each group member to take the highest ranked features and group them into a concept “bin”. Each bin was then sketching into a concept. Concept 1 was sketched by Aaron K., Concept 2 was sketched by Kevin H., and Concept 3 was sketched by Tristan D. 
-
 ## 4.1 Idea Generation
 A jamboard was used to generate and document a list of ~100 ideas to be sorted, recombined, and ranked by Team 305. Three categories were created to help organize the random idea generation phase; Functionality, Hardware/Product Design, and Safety.
 See Figure 4A for a Jamboard image before sorting, ranking, and idea recombination. See the following link for the original Jamboard: 
