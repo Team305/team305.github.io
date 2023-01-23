@@ -34,7 +34,7 @@ Meeting Schedule
 |   Mark  |       M      | REDACTED | REDACTED |     REDACTED     |
 |  Kevin  |       K      | REDACTED | REDACTED |     REDACTED     |
 
-Team Coordination
+### Team Coordination
 The Assignment Leader will be submitting the assignments. Each member will review the assignment and agree it is ready to be submitted. Once the team has agreed that a document is ready for submission - the Assignment Leader will prepare the final document and confirm submission over discord. 
 
 Each team member will make an effort to prepare for each assignment. The team will assist and educate a member if they are having knowledge or skill problems. It is part of Team 305’s shared goal, as mentioned in the Charter Section of this document, to learn new skills and teach each other what we already know. Team 305 is confident in our current skills and our ability to complete EGR 314 objectives on time. 
