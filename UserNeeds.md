@@ -67,7 +67,7 @@ Search Results Link: [Here](https://www.amazon.com/Hygrometer-Humidity-Gauge-Met
 
 Keywords: Automated Greenhouse Monitoring System
 
-Search Results Link: Link Here
+Search Results Link: Link [Here](https://www.amazon.com/MINGER-Temperature-Humidity-Hygrometer-Thermometer/dp/B07FBCTQ3L/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 3\. Govee WiFi Thermometer Hygrometer H5051, Bluetooth Indoor Temperature Humidity Monitor with App Notification Alert, Smart Humidity Sensor for Greenhouse Wine Cellar, 2 Years Free Data Storage Export
 
@@ -97,7 +97,7 @@ Search Results Link: Link Here
 
 Keywords: Automated Greenhouse System
 
-Search Results Link: Link here
+Search Results Link: Link [Here](https://www.amazon.com/AC-Infinity-Environmental-Temperature-Ventilation/dp/B09MY9644Z/ref=sr_1_66?keywords=Automated+Greenhouse+System&qid=1673927639&sr=8-66)
 
 4\. AC Infinity Controller 69, Smart Environmental Controller with Temperature, Humidity, Timer, Cycle, Schedule Controls, for Grow Tent Cooling Ventilation Lighting
 
@@ -127,7 +127,7 @@ Search Results Link: Link here
 
 Keywords: Link4 Corporation Growing Computers
 
-Search Results Link: Link Here
+Search Results Link: Link [Here](https://www.amazon.com/Corporation-LC99511-iPonic-Environmental-Controller/dp/B00EU8X9LK/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 5\. Link4 Corporation LC99511 iPonic 614 Environmental Controller
 
