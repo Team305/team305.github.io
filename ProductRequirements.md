@@ -11,8 +11,11 @@ EGR 314 students were given the task of working in groups of four to develop a m
 ## 3.2 Objective
 
 Team 305’s objective is to design a reliable weather monitoring system that is capable of monitoring its surroundings, recording and transmitting data, and resisting environmental wear. The primary goals of Team 305 are to meet the requirements of EGR 314, while also working towards improving our skill sets and learning new skills. Although selling the final product would be great, it is not the primary focus of the team. Team 305 has established that the finished product is non-competitive and is purely an academic exercise for the purposes of EGR 314. 
+
 The weather monitoring system developed by Team 305 will be one-of-a-kind by utilizing two serial sensors and a motor controlled actuator that communicate through I2C or SPI. A successful project will be fully operational, streamlined in design, dependable, and cost effective.
+
 Our goals include: creating a fully operational product that ensures all sensors and components function as intended, giving the product a professional appearance, meeting all EGR 314 goals and requirements, enhancing each team member’s skills and encouraging skill development, and designing a cost effective and uncomplicated product.
+
 In summary, Team 305’s weather monitoring system will be unique and use solutions that utilizes the latest technology to produce accurate and dependable data, while being cost effective and user friendly. Team 305 hopes to place this product in greenhouses since they think it will significantly benefit greenhouses and the plants grown there.
 
 ## 3.3 Stakeholders
