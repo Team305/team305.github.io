@@ -20,7 +20,9 @@ In summary, Team 305’s weather monitoring system will be unique and use soluti
 Due to the non-competitive nature of this group stakeholders are limited to ASU affiliates, including involved students, professors, and potential private interests. 
 
 **Target Group:** Commercial and hobbyist growers.
+
 **Target Purchaser/User:** Residential and commercial greenhouse or grow tent users.
+
 **Regulatory instances:** Meet EGR 314 Spring 2023 requirements and ASU Code of Conduct for Engineers.
 
 ## 3.4 Use Cases
