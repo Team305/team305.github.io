@@ -255,3 +255,5 @@ Negative Comments
     8. The product can be offered in multiple colors. 
     9. The product can be offered in multiple styles.
     10. The product can hang from the ceiling.
+
+[click here to return to index](/index)
