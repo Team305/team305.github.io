@@ -42,36 +42,36 @@ Samantha is a young adult who is 25 and currently works at “Living Carbon”. 
 
 The following product aspects encompass the core functionality of the Team 305 weather station project. These aspects have been ranked based on their priority – 5 being the highest priority and 1 being the lowest priority. 
 
-1. Hardware / Product Design: The design and hardware of the module weather station should meet these requirements
+1. **Hardware / Product Design:** The design and hardware of the module weather station should meet these requirements
   1. The product will be simple in design and not time consuming to fix. (5)
   2. The product will have a variety of sensors. (5)
   3. The product will have wheels for a motor actuation. (4)
   4. The product will have a power supply and with batteries. (3)
   5. The product will be mobile. (3)
-2. Software / Functionality: The product’s software and functionality must be able to meet these standards
+2. **Software / Functionality:** The product’s software and functionality must be able to meet these standards
   1. The product will connect to and send data over Wi-Fi. (5)
   2. The product will produce reliable and accurate data. (4)
   3. The product’s motors are bidirectional and allow for some manual control. (4)
   4. The products UI/System will be easy to understand, ages < 12 years should understand. (3)
   5. The product will have a long battery life. (3)
-3. Interactivity: The Users should be able to easily interact with the product by meeting these requirements.
+3. **Interactivity:** The Users should be able to easily interact with the product by meeting these requirements.
   1. The product will be easy to set up. (5)
   2. The product is easy to use. (5)
   3. Users have easy access to the database where data is sent. (4)
   4. The UI for the product will be easy to understand and is intuitive. (4)
   5. The product will send a warning if one sensor is not reading. (3)
-4. Customization: Customization of the product will meet these standards in order to be seen as successful. 
+4. **Customization:** Customization of the product will meet these standards in order to be seen as successful. 
   1. The product's sensors will be easily replaced(5)
   2. The product can hang from the ceiling. (4)
   3. The product will be offered in multiple sizes. (3)
   4. The product will be offered in multiple colors. (3)
   5. The product will be offered in multiple styles. (2)
-5. Manufacturing: Product manufacturing must meet these standards. 
+5. **Manufacturing:** Product manufacturing must meet these standards. 
   1. The overall product will be built for longevity. (5)
   2. The sensors are robust and do not break easily. (4)
   3. The materials used are eco friendly. (4)
   4. The product will be affordable to construct. (4)
-6. Safety: The product needs to meet these safety requirements in order to be produced.
+6. **Safety:** The product needs to meet these safety requirements in order to be produced.
   1. The product will not have any exposed direct current that could endanger users. (5)
   2. The product will have fuses or fail-safes in cases of too much power running through parts. (5)
   3. The product will be powered on no higher than 3.3v based on products. (5)
