@@ -1,7 +1,7 @@
 # 4.0 Design Ideation
 ## 4.1 Idea Generation
 A jamboard was used to generate and document a list of ~100 ideas to be sorted, recombined, and ranked by Team 305. Three categories were created to help organize the random idea generation phase; Functionality, Hardware/Product Design, and Safety.
-See Figure 4A for a Jamboard image before sorting, ranking, and idea recombination. See the following link for the original Jamboard [Here](https://jamboard.google.com/d/1oBwjf89Rkl5T7UjKVJ11oe1ComQvGgsDpVW4HWBs-Wo/viewer?f=0) 
+See Figure 4A for a Jamboard image before sorting, ranking, and idea recombination. See the following link for the original Jamboard [Here.](https://jamboard.google.com/d/1oBwjf89Rkl5T7UjKVJ11oe1ComQvGgsDpVW4HWBs-Wo/viewer?f=0) 
 
 ![Figure 4A: Jamboard before sorting, ranking, and idea recombination.](/photos/Figure4a.png "Figure 4A: Jamboard before sorting, ranking, and idea recombination.")
 
