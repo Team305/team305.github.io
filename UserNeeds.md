@@ -35,8 +35,11 @@ Search Results Link: [Here](https://www.amazon.com/Logia-Monitoring-Temperature-
 | So far the accuracy appears off for temperature wind and rain. This is compared to other stations close by on weather underground. All appear to be lower than what is expected. I will test when I get a chance. 3 star rating for accuracy and lack of APP. 4 star on nice display.                                                                                                                                                                                                  | The accuracy of temperature, wind, and rain measurements are better than other weather stations (explicit).<br>The product has a mobile app that allows users to access data (explicit).  |
 
 ### Search #2
+
 Keywords: Greenhouse Weather Station
+
 Search Results Link: [Here](https://www.amazon.com/Hygrometer-Humidity-Gauge-Meter-Thermometer/dp/B08Z7NYHKK/ref=sr_1_6?crid=2KBA61DGIPUN2&keywords=Greenhouse+Weather+Station&qid=1673926332&sprefix=greenhouse+weather+station%2Caps%2C353&sr=8-6)
+
 2\. Hygrometer Humidity Gauge Meter - Wireless Indoor Outdoor Thermometer with 1 Remote Sensor - Room Thermometer for Home, Temperature and Humidity Monitor for Greenhouse Nursery Garden, 200ft/60m Range
 
 ![Figure 2B: Hygrometer Humidity Gauge Meter.](/photos/Figure2b.png "Figure 2B: Hygrometer Humidity Gauge Meter.")
