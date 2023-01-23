@@ -2,13 +2,9 @@
 title: Product Requirements 
 ---
 
-# Product Requirements
+# 3.0 Product Requirements
 
-## 3.1 Introduction
-
-EGR 314 students were given the task of working in groups of four to develop a mobile weather station that will be displayed at the Innovation Showcase on April 28, 2023. Each team had the flexibility to select a minimum of two serial sensors and a minimum of one actuator that uses an I2C or SPI-based interface. It is crucial that the class develops original concepts that are not copies of already-existing ones. The following are some suggestions for the class’s possible serial sensors: temperature, humidity, light, atmospheric pressure, and wind speed. Solar panels, fan controllers, and humidity control are a few ideas for an actuator that may be controlled to react in a certain way.
-
-## 3.2 Objective
+## 3.1 Objective
 
 Team 305’s objective is to design a reliable weather monitoring system that is capable of monitoring its surroundings, recording and transmitting data, and resisting environmental wear. The primary goals of Team 305 are to meet the requirements of EGR 314, while also working towards improving our skill sets and learning new skills. Although selling the final product would be great, it is not the primary focus of the team. Team 305 has established that the finished product is non-competitive and is purely an academic exercise for the purposes of EGR 314. 
 
@@ -18,7 +14,7 @@ Our goals include: creating a fully operational product that ensures all sensors
 
 In summary, Team 305’s weather monitoring system will be unique and use solutions that utilizes the latest technology to produce accurate and dependable data, while being cost effective and user friendly. Team 305 hopes to place this product in greenhouses since they think it will significantly benefit greenhouses and the plants grown there.
 
-## 3.3 Stakeholders
+## 3.2 Stakeholders
 
 Due to the non-competitive nature of this group stakeholders are limited to ASU affiliates, including involved students, professors, and potential private interests. 
 
@@ -28,7 +24,7 @@ Due to the non-competitive nature of this group stakeholders are limited to ASU 
 
 **Regulatory instances:** Meet EGR 314 Spring 2023 requirements and ASU Code of Conduct for Engineers.
 
-## 3.4 Use Cases
+## 3.3 Use Cases
 
 **User #1: Rick**
 
@@ -38,7 +34,7 @@ Rick is a 30 year old homeowner who lives in Phoenix, Arizona. Since the tempera
 
 Samantha is a young adult who is 25 and currently works at “Living Carbon”. This company is located in San Francisco, California. Samantha's position is called plant care associate and she is in charge of research and growth in greenhouses. Her new project is to test out Team 305’s weather control module. She will alter the temperature and light levels to see how well the sensors are performing. With this weather control module she can use the Wi-Fi controlled app that will send live data in the greenhouse conditions. Samantha can monitor the data remotely in this way.
 
-## 3.5 Aspects
+## 3.4 Aspects
 
 The following product aspects encompass the core functionality of the Team 305 weather station project. These aspects have been ranked based on their priority – 5 being the highest priority and 1 being the lowest priority. 
 
@@ -79,7 +75,7 @@ The following product aspects encompass the core functionality of the Team 305 w
     5. The product works without errors.(4)
 
 
-## 3.6 Open Questions
+## 3.5 Open Questions
 
 1. When creating the weather module, how accurate can we make the sensors using the components we have?
 
