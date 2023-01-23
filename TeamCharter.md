@@ -17,3 +17,5 @@ Title: Team Charter
 Team 305’s goal is to develop a fully functional and aesthetically pleasing weather control module for residential and commercial greenhouses. This will be accomplished by simplifying the product design as much as possible without compromising reliability. 
 
 For more information about Team 305's oraganization process, see [Appendix A.](/AppendixA)
+
+[click here to return to index](/index)
