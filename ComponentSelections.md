@@ -1,3 +1,7 @@
+---
+title: Component Selection
+---
+
 # 6.0 Component Selection
 
 ## Temperature Sensor
