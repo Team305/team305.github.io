@@ -1,9 +1,9 @@
 ---
-[Title: Software Proposel](/index)
+[Title: Software Proposal](/index)
 ---
 
-# Software Proposel 
+# Software Proposal 
 
-![Figure 1: Software Propesel Diagram](/photos/SoftwareProposal.jpg "SoftwareProposal: Jamboard before sorting, ranking, and idea recombination.")
+![Figure 1: Software Propesal Diagram](/photos/SoftwareProposal.jpg "Figure 10a: Software Proposal UML Diagram.")
 
 [click here to return to index](/index)
