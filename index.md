@@ -46,7 +46,7 @@ The following design in Section 5.0 is the most current ideation for the Greenho
 
 ## [6.0: Component Selection](/ComponentSelections)
 
-
+After finalizng our design selection Team 305 was able to begin determining the companatents needed in order to turn this design into a reality. In order to complete this Team 305 found 3 compareble parts for each type of companant needed. From these option the team member responsible for each subsystem select the componat that fit the needs, price range, and other unique features required in order to be succesful. 
 
 ## [7.0: Microcontroller Selection](/MicrocontrollerSelection)
 
