@@ -20,8 +20,7 @@
 | Built-in Hardware PWM? How many?                                             |                                                                               | 2                                              | 2                      | 1                      |
 | Built-in I2C? SPI? How many?                                                 | We need at least 2 serial sensors and 1 serial actuator using I2C or SPI.     | 2                                              | 2                      | 3                      |
 | Built-in UART? How many?                                                     | We need at least 1 example of UART, SPI, and I2C.                             | 5                                              | 2                      | 3                      |
-| Other Required Built-In Features? (optional)                                 |                                                                               |                                                |                        |                        |
-| Additional considerations specific to your project specifications (optional) |                                                                               |                                                |                        |                        |
+                                                |                        |                        |
 
 
 ## 2. Final Microcontroller Choice: PIC18F67K40
