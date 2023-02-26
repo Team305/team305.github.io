@@ -50,7 +50,7 @@ After finalizng our design selection Team 305 was able to begin determining the 
 
 ## [7.0: Microcontroller Selection](/MicrocontrollerSelection)
 
-
+Selecting the appropriate microcontroller is crucial for the success of any project that involves electronic devices. For Team 305's project, the selection of Microchip's microcontroller was essential. The process of selecting a microcontroller involves identifying and evaluating the available options and choosing the one that best meets the project's requirements. 
 
 ## [8.0: Block Diagram](/BlockDiagram)
 
