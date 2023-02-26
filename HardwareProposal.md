@@ -3,7 +3,7 @@
 ---
 
 # Hardware Proposal
-![Figure 1A. Hardware Schechmatic](/photos/Team305Schem-1.png "Hardware Schematic")
+![Figure 9A. Hardware Schechmatic](/photos/Team305Schem-1.png "Hardware Schematic")
 
 
 
