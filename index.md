@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Greenhouse Climate Control Weather Station
+# Greenhouse Climate Monitoring System
 
 **Team 305**
 
@@ -42,7 +42,7 @@ From there, ranking, organizing, and idea recombination was possible. It was com
 
 ## [5.0: Selected Design](/SelectedDesign)
 
-
+The following design in Section 5.0 is the most current ideation for the Greenhouse Climate Monitoring System. Following the Design Ideation phase, Team 305 determined that a modular temperature sensing rail was the best approach to sense light an temperature. Since I2C was the chosen form of communication for the sensing units, this would allow multiple sensors to be physically connected to the MCU. For the purposes of this project, only two sensors have been depicted in the rendering found in Section 5.0. 
 
 ## [6.0: Component Selection](/ComponentSelections)
 
