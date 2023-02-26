@@ -1,5 +1,5 @@
 ---
-title: Appendix A \: Communication Procedures
+title: Communication Procedures
 ---
 
 ## Appendix A: Communication Procedures 
