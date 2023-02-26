@@ -46,7 +46,7 @@ The following design in Section 5.0 is the most current ideation for the Greenho
 
 ## [6.0: Component Selection](/ComponentSelections)
 
-After finalizng our design selection Team 305 was able to begin determining the companatents needed in order to turn this design into a reality. In order to complete this Team 305 found 3 compareble parts for each type of companant needed. From these option the team member responsible for each subsystem select the componat that fit the needs, price range, and other unique features required in order to be succesful. 
+Team 305 determined the components needed by comparing the pros and cons of the different components. For each component needed - three options were compared. From these options only one component was selected by each team member. A justification as to why that specific component was the best choice is also provided in this section. 
 
 ## [7.0: Microcontroller Selection](/MicrocontrollerSelection)
 
@@ -59,7 +59,7 @@ This block diagram provides a clear and concise representation of the components
 
 ## [9.0: Hardware Proposal](/HardwareProposal)
 
-
+A hardware schematic was created by Team 305 once the components were selected and the block diagram was completed. Individual subsystem schematics were combined and modified to show how each subsystem is powered and how each communicates with the microcontroller. Team 305’s  schematics will serve as a reference for hardware, communication, and downstream PCB design.
 
 ## [10.0: Software Proposal](/SoftwareProposal)
 
