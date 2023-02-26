@@ -1,30 +1,6 @@
 ---
-title: |
-  <span id="_cw88o31uri3y" class="anchor"></span>
-
-  <span id="_syw7sfz8egjk" class="anchor"></span>
-
-  <span id="_mob80isx3nkw" class="anchor"></span>
-
-  <span id="_g1ya4ky1rzj0" class="anchor"></span>**Component Selection**
+title: [Component Selection](/index)
 ---
-
-EGR 314 - ASU Polytechnic - Spring 2023
-
-Professor Kelley & Dr. Aukes - *Instructors*
-
-**Team 305:**
-
-Mark Alvarez – *Meeting Leader*
-
-Tristan Dunton – *Assignment Leader*
-
-Aaron Karsten – *Meeting Recorder*
-
-Kevin Hays – *Project Monitor*
-
-**2/1/23**
-
 ## Temperature Sensor
 
 <table>
