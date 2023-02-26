@@ -1,3 +1,7 @@
+---
+title: Appendix A: Communication Procedures
+---
+
 ## Appendix A: Communication Procedures 
 For communication, our team will primarily be using text messages to ensure that we are all on the same page with the project. This will allow for quick and reliable messages allowing efficient communication. Team meetings will be conducted on Discord, as it allows for easy screen and file sharing so we are able to complete our meeting’s goals effectively. Email will be used as a last resort in the case one of the team members does not respond with the other two communication channels.
 
