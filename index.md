@@ -54,6 +54,7 @@ From there, ranking, organizing, and idea recombination was possible. It was com
 
 ## [8.0: Block Diagram](/BlockDiagram)
 
+This block diagram provides a clear and concise representation of the components of team 305's system and how they are interconnected, making it a valuable tool for system design and troubleshooting. 
 
 
 ## [9.0: Hardware Proposal](/HardwareProposal)
