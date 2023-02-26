@@ -54,7 +54,7 @@ Selecting the appropriate microcontroller is crucial for the success of any proj
 
 ## [8.0: Block Diagram](/BlockDiagram)
 
-This block diagram provides a clear and concise representation of Team 305's subsystem organization and how they are interconnected. It is a valuable tool for system design and troubleshooting - but serves to depict how the different forms of communcation interact with the microcontroller. The microcontroller, I2C sensors, motor/controller, WiFi components, and power systems have been included in this section. 
+This block diagram provides a clear and concise representation of Team 305's subsystem organization and how they are interconnected. It is a valuable tool for system design and troubleshooting - but serves to depict how the different forms of communcation interact with the microcontroller. The microcontroller, I2C sensors, motor/controller, WiFi, and power subsystems have been included. 
 
 
 ## [9.0: Hardware Proposal](/HardwareProposal)
