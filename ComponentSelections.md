@@ -71,7 +71,7 @@ The LM2575S-3.3/NOPB is the ideal choice for Team 305 because of its ease of use
 The B09YRGM86T is the ideal choice for Team 305 because of its lower cost and ability to power all necessary systems effectively. The other options are either too high or low in current and voltage output making the choice clear. Option 3 is also the most cost effective allowing for the team to spend money elsewhere.  
 
 
-## Generated Power Bill
+## Generated Power Budget
 ![Figure XA PowerBill](/photos/PowerBudget.jpg "Generated Power Bill")
 
 [click here to return to index](/index)
