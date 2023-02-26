@@ -1,7 +1,3 @@
----
-title: [Component Selection](/index)
----
-
 # Component Selection
 
 ## Temperature Sensor
