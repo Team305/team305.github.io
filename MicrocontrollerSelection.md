@@ -1,4 +1,4 @@
-# Microcontroller Selection
+# Microcontroller Selection 
 
 
 | 1. Determine your project-specific requirements                                                           |                                                                                                                                                                                                                                                             | 3. Look up specifications in the PIC datasheet  |                                                                      |                                                 |
