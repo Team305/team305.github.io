@@ -40,7 +40,8 @@ From the generated user needs and product requirements, Team 305 was able to beg
 
 From there, ranking, organizing, and idea recombination was possible. It was completed by creating a ranking system and placing the rank on each sticky note. A rank of 5 was deemed to be most important, while a rank of 1 was decided to be least important. The ranks allowed each group member to take the highest ranked features and group them into a concept “bin”. Each bin was then sketching into a concept. Concept 1 was sketched by Aaron K., Concept 2 was sketched by Kevin H., and Concept 3 was sketched by Tristan D. 
 
-## [5.0: Component Selection](/ComponentSelections)
+## [5.0: Component Selection PANDOC1](/ComponentSelections)
+## [5.0: Component Selection PANDOC2](/example35)
 
 ## Presentation Videos:
 ### [Checkpoint 1 Presentation](/Presentation1)
