@@ -57,3 +57,5 @@ The LM2575S-3.3/NOPB is the ideal choice for Team 305 because of its ease of use
 | # Option 3. B09YRGM86T $4.39/each Link here            | Desired output voltage for motors to be functional Can output 9V Works within voltage regulators range.               | Can only output 1A No overload protection        |
 ### Optimal Solution: B09YRGM86T
 The B09YRGM86T is the ideal choice for Team 305 because of its lower cost and ability to power all necessary systems effectively. The other options are either too high or low in current and voltage output making the choice clear. Option 3 is also the most cost effective allowing for the team to spend money elsewhere.  
+
+[click here to return to index](/index)
