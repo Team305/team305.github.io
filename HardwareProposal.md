@@ -4,7 +4,7 @@ title: Hardware Proposal
 
 # 9.0 Hardware Proposal
 ## 9.1 Overall Schematic
-![Figure 9A. Hardware Schechmatic](/photos/Team305Schem.png "Hardware  Schematic")(https://team305.github.io/photos/Team305Schem.png)
+[![Figure 9A. Hardware Schechmatic](/photos/Team305Schem.png "Hardware  Schematic")](https://team305.github.io/photos/Team305Schem.png)
 
 ## 9.2 Bill of Materials
 
