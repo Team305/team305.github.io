@@ -2,11 +2,12 @@
 title: Hardware Proposal
 ---
 
-# Hardware Proposal
+# 9.0 Hardware Proposal
+## 9.1 Overall Schematic
 ![Figure 9A. Hardware Schechmatic](/photos/Team305Schem-1.png "Hardware Schematic")
 
+## 9.2 Bill of Materials
 
-## Bill of Materials
 |        Team 305 Bill of Materials       |               |                     |                      |                      |                       |                              |                        |             |                |          |                                    |           |              |            |         |                                 |
 |:---------------------------------------:|:-------------:|:-------------------:|:--------------------:|:--------------------:|:---------------------:|:----------------------------:|:----------------------:|:-----------:|:--------------:|:--------:|:----------------------------------:|:---------:|:------------:|:----------:|:-------:|:-------------------------------:|
 | Part Name/Description                   | Unit Quantity | Unit Prototype Cost | Total Prototype Cost | Unit Production Cost | Total Production Cost | Manufacturer                 | Manufacturer Part #    | Vendor Link | Datasheet Link | Supplier | Supplier Part #                    | # Ordered | Date Ordered | # Received | Surplus | Schematic Reference Designators |
