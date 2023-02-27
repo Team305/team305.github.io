@@ -1,5 +1,5 @@
 ---
-Title: Software Proposal
+title: Software Proposal
 ---
 
 # 10.0 Software Proposal 
