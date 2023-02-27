@@ -5,6 +5,7 @@ title: Hardware Proposal
 # 9.0 Hardware Proposal
 ## 9.1 Overall Schematic
 ![Figure 9A. Hardware Schechmatic](/photos/Team305Schem.png "Hardware  Schematic")
+Right Click, Open in New Tab for enlarged image.
 
 ## 9.2 Bill of Materials
 
