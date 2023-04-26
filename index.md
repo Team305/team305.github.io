@@ -18,7 +18,7 @@ _**Last Rev.: 26-Feb-23**_
 
 **Spring 2023**
 
-## [1.0: Team Charter](/TeamCharter)
+## [1.0: Team Organization](/TeamCharter)
 
 The vision of Team 305 is to develop a weather monitoring system with the ability to monitor its environment, record & transmit data, and withstand environmental stresses. The project will be completed successfully by meeting the requirements for EGR 314. Additionally, it is Team 305’s main objective to improve our skill sets and encourage the development of new skills - rather than create a product that can be sold. If that ends up being accomplished - fantastic - however that is not Team 305’s primary goal.
 
