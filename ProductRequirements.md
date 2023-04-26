@@ -8,11 +8,9 @@ title: Product Requirements
 
 Team 305’s objective is to design a reliable weather monitoring system that is capable of monitoring its surroundings, recording and transmitting data, and resisting environmental wear. The primary goals of Team 305 are to meet the requirements of EGR 314, while also working towards improving our skill sets and learning new skills. Although selling the final product would be great, it is not the primary focus of the team. Team 305 has established that the finished product is non-competitive and is purely an academic exercise for the purposes of EGR 314. 
 
-The weather monitoring system developed by Team 305 will be one-of-a-kind by utilizing two serial sensors and a motor controlled actuator that communicate through I2C or SPI. A successful project will be fully operational, streamlined in design, dependable, and cost effective.
+The weather monitoring system developed by Team 305 utilizes two serial sensors and a motor controlled actuator that communicate through I2C and SPI. Most of the original goal were met, which included: creating a fully operational product that ensures all sensors and components function as intended, giving the product a professional appearance, meeting all EGR 314 goals and requirements, enhancing each team member’s skills and encouraging skill development, and designing a cost effective and uncomplicated product.
 
-Our goals include: creating a fully operational product that ensures all sensors and components function as intended, giving the product a professional appearance, meeting all EGR 314 goals and requirements, enhancing each team member’s skills and encouraging skill development, and designing a cost effective and uncomplicated product.
-
-In summary, Team 305’s weather monitoring system will be unique and use solutions that utilizes the latest technology to produce accurate and dependable data, while being cost effective and user friendly. Team 305 hopes to place this product in greenhouses since they think it will significantly benefit greenhouses and the plants grown there.
+In summary, Team 305’s weather monitoring system utilizes an ESP32 microcontroller to handle data from the sensors. It sends the data to an online repository and can update values live. All subsystems function and have been verified individually. The original product requirements still apply - though some have been omitted that were no longer relevant to the product design. 
 
 ## 3.2 Stakeholders
 
@@ -43,7 +41,6 @@ The following product aspects encompass the core functionality of the Team 305 w
     2. The product will have a variety of sensors. (5)
     3. The product will have wheels for a motor actuation. (4)
     4. The product will have a power supply and with batteries. (3)
-    5. The product will be mobile. (3)
 2. **Software / Functionality:** The product’s software and functionality must be able to meet these standards
     1. The product will connect to and send data over Wi-Fi. (5)
     2. The product will produce reliable and accurate data. (4)
@@ -59,14 +56,10 @@ The following product aspects encompass the core functionality of the Team 305 w
 4. **Customization:** Customization of the product will meet these standards in order to be seen as successful. 
     1. The product's sensors will be easily replaced(5)
     2. The product can hang from the ceiling. (4)
-    3. The product will be offered in multiple sizes. (3)
-    4. The product will be offered in multiple colors. (3)
-    5. The product will be offered in multiple styles. (2)
 5. **Manufacturing:** Product manufacturing must meet these standards. 
     1. The overall product will be built for longevity. (5)
     2. The sensors are robust and do not break easily. (4)
-    3. The materials used are eco friendly. (4)
-    4. The product will be affordable to construct. (4)
+    3. The product will be affordable to construct. (4)
 6. **Safety:** The product needs to meet these safety requirements in order to be produced.
     1. The product will not have any exposed direct current that could endanger users. (5)
     2. The product will have fuses or fail-safes in cases of too much power running through parts. (5)
