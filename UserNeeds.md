@@ -255,5 +255,9 @@ Negative Comments
     8. The product can be offered in multiple colors. 
     9. The product can be offered in multiple styles.
     10. The product can hang from the ceiling.
+7. Update - In retrospect 
+    1. Hardware is easy to program
+    2. Hardware is easy to handle and solder 
+    3. Add plenty of test points to verify PCB functionality    
 
 [click here to return to index](/index)
