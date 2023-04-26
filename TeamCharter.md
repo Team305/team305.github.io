@@ -1,8 +1,8 @@
 ---
-Title: Team Charter
+Title: Team Organization
 ---
 
-# 1.0 Team Charter
+# 1.0 Team Organization
 
 ## 1.1 Goals
 
