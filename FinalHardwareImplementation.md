@@ -39,6 +39,15 @@ Bottom physical shot of final pcb sensor board
 ![PCBMCBOT. Bottom physical shot of final pcb sensor board](/photos/JLPCBSNBOT.jpg "Bottom physical shot of final pcb sensor board")
 
 ## 9.4 Version 2.0
+If a version 2.0 were to be created, several changes to the hardware design would be implemented to enhance performance and usability.
+
+Firstly, the addition of a sensor capable of measuring both temperature and humidity would increase the efficiency of the mobile weather station. This upgrade would particularly benefit greenhouses, where maintaining the appropriate temperature and humidity is crucial for optimal plant growth.
+
+Secondly, the ambient light sensor would be enhanced to enable the full spectrum via coding. Although challenging, with more time and professional assistance, the sensor could be utilized to its fullest potential.
+
+Thirdly, the motor driver would be upgraded to an SPI-based model, as the current driver was not intended to use this protocol and posed several difficulties while building and programing.
+
+Lastly, the team intends to replace the current 64-pin microcontroller with a PIC with around 24 pins, which would fulfill all necessary requirements. The current microcontroller's 64 pins made it challenging to hand-solder and was not fully utilized, making it an unfavorable choice for the project.
 
 
 [click here to return to index](/index)
