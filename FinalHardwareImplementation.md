@@ -41,13 +41,13 @@ Bottom physical shot of final pcb sensor board
 ## 9.4 Version 2.0
 If a version 2.0 were to be created, several changes to the hardware design would be implemented to enhance performance and usability.
 
-Firstly, the addition of a sensor capable of measuring both temperature and humidity would increase the efficiency of the mobile weather station. This upgrade would particularly benefit greenhouses, where maintaining the appropriate temperature and humidity is crucial for optimal plant growth.
+The first modification involves the addition of a sensor that can gauge both humidity and temperature. The device's ability to perform more efficiently as a mobile weather station would increase, resulting in data that is more accurate and trustworthy. Owners of greenhouses would particularly benefit from this function because maintaining the ideal temperature and humidity levels is essential for plant growth.
 
-Secondly, the ambient light sensor would be enhanced to enable the full spectrum via coding. Although challenging, with more time and professional assistance, the sensor could be utilized to its fullest potential.
+Secondly, the team wants to make the ambient light sensor better by using some code. This might be tough, but they think they can do it with more time and help from experts. If they succeed, the sensor will be able to measure all kinds of light. This would be helpful for users who want to know more about their environment.
 
-Thirdly, the motor driver would be upgraded to an SPI-based model, as the current driver was not intended to use this protocol and posed several difficulties while building and programing.
+Thirdly, the team wants to update the motor driver. The motor driver can currently enable the SPI protocol, however there were numerous difficulties in doing so. The group would research upgrading to an SPI-based motor driver as a result. The device's motors might be controlled more consistently with this adjustment.
 
-Lastly, the team intends to replace the current 64-pin microcontroller with a PIC with around 24 pins, which would fulfill all necessary requirements. The current microcontroller's 64 pins made it challenging to hand-solder and was not fully utilized, making it an unfavorable choice for the project.
+For the last upgrade the team intends to replace the current 64-pin microcontroller with a PIC with around 24 pins, which would fulfill all necessary requirements. The current microcontroller's 64 pins made it challenging to hand-solder and was not fully utilized, making it an unfavorable choice for the project.
 
 
 [click here to return to index](/index)
