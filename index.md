@@ -53,7 +53,7 @@ From the generated user needs and product requirements, Team 305 was able to beg
 
 From there, ranking, organizing, and idea recombination was possible. It was completed by creating a ranking system and placing the rank on each sticky note. A rank of 5 was deemed to be most important, while a rank of 1 was decided to be least important. The ranks allowed each group member to take the highest ranked features and group them into a concept “bin”. Each bin was then sketching into a concept. Concept 1 was sketched by Aaron K., Concept 2 was sketched by Kevin H., and Concept 3 was sketched by Tristan D. 
 
-## [5.0: Selected Design](/SelectedDesign)
+## [5.0: Final Selected Design](/FinalSelectedDesign)
 
 The following design in Section 5.0 is the most current ideation for the Greenhouse Climate Monitoring System. Following the Design Ideation phase, Team 305 determined that a modular temperature sensing rail was the best approach to sense light an temperature. Since I2C was the chosen form of communication for the sensing units, this would allow multiple sensors to be physically connected to the MCU. For the purposes of this project, only two sensors have been depicted in the rendering found in Section 5.0. 
 
