@@ -76,16 +76,16 @@ The PIC18LF67K40, despite its relatively low ADC resolution, is the best choice 
 | ![3](/photos/level.jpg) <br>NVT2003 <br>$0.91/each <br>[Link Here](https://www.mouser.com/ProductDetail/NXP-Semiconductors/NVT2003DP118?qs=vbj%2FKoHZRAiMv2YX75DayA%3D%3D)  | <br>                    | <br><br>         |
 
 #### Chosen Component: NVT2003
-The NVT2003 
+The NVT2003 a voltage translator used to convert the 1.8V outped by the light sensor to the systems logic level of 3.3V. This is a low cost surface mount chip fits all the requirements needed for the light sensors design.  
 
 ### Low-Dropout Regulator (LDO)
 
 |                         Solution                         |                                                                  Pros                                                                 |                             Cons                            |
 |:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
-| ![3](/photos/ldo.jpg) <br>ADP151 <br>$/each <br>[Link Here]()  | -<br>-<br>-                    | -<br>-<br>         |
+| ![3](/photos/ldo.jpg) <br>ADP151 <br>$1.60/each <br>[Link Here](https://www.mouser.com/ProductDetail/Analog-Devices/ADP151AUJZ-1.8-R7?qs=sGAEpiMZZMutXGli8Ay4kD%2F4TpDpCbliGE0vLEUhOvE%3D)  | -<br>-<br>-                    | -<br>-<br>         |
 
 #### Chosen Component: ADP151
-The ADP151 
+The ADP151 is a 3.3-1.8V linear voltage regulator. This chip is the optimal choice for team 305 as it is surface mount and allows for voltage requirements of light sensors to be met.   
 
 
 ## 6.2 Generated Power Budget
