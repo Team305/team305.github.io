@@ -2,7 +2,7 @@
 title: Component Selection
 ---
 
-# Component Selection
+# Appendix B: Component Selection
 ## Component Comparisons
 
 ### Temperature Sensor
