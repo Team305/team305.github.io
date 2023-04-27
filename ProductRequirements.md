@@ -71,14 +71,19 @@ The following product aspects encompass the core functionality of the Team 305 w
 ## 3.5 Open Questions
 
 1. When creating the weather module, how accurate can we make the sensors using the components we have?
+Answer: 
 
 2. How will we calibrate the sensors initially?
+Answer:
 
 3. Does the Motors motion need to be directly visible?
+Answer:
 
 4. What are sensors that would not be recommended for use in this case?
+Answer:
 
 5. What is the expected life span of the sensors on average?
+Answer:
 
 ## 3.7 Milestones 
 
