@@ -1,5 +1,5 @@
 ---
-title: Appendix B: Component Selection
+title: Component Selection
 ---
 
 # Component Selection
