@@ -20,10 +20,10 @@ A switching regulator and a microprocessor make up the fourth subsystem. All oth
 The schematic provided fits the user's requirements for a practical, user-friendly, portable, durable device that generates correct data and requires little setup. Users' safety is ensured by the low voltage and current requirements, and affordable production is made possible by surface-mount components. The device can be made smaller and more mobile to make it easier to use, and the Wi-Fi communication protocol enables direct access to the data the product is registering. The user's desire for a satisfying experience is provided by the smooth connection to other devices, configurable parameters, and conveniently accessible database. Overall, the functionality of this design provides a dependable, effective, and configurable mobile weather station, satisfying both user needs and product requirements.
 
 ## 9.3 Final PCB Design
-[![PCBMCTOP. Top screenshot of final pcb main board](/photos/PCBMCTOP.png "Top screenshot of final pcb main board")]
-[![PCBMCBOT. Bottom screenshot of final main board](/photos/PCBMCBOT.png "Bottom screenshot of final pcb main board")]
-[![PCBMCTOP. Top screenshot of final pcb sensor board](/photos/PCBSNTOP.png "Top screenshot of final pcb sensor board")]
-[![PCBMCBOT. Bottom screenshot of final pcb sensor board](/photos/PCBSNBOT.png "Bottom screenshot of final pcb sensor board")]
+![PCBMCTOP. Top screenshot of final pcb main board](/photos/PCBMCTOP.png "Top screenshot of final pcb main board")
+![PCBMCBOT. Bottom screenshot of final main board](/photos/PCBMCBOT.png "Bottom screenshot of final pcb main board")
+![PCBMCTOP. Top screenshot of final pcb sensor board](/photos/PCBSNTOP.png "Top screenshot of final pcb sensor board")
+![PCBMCBOT. Bottom screenshot of final pcb sensor board](/photos/PCBSNBOT.png "Bottom screenshot of final pcb sensor board")
 
 ![PCBMCTOP. Top physical shot of final pcb main board](/photos/JLPCBMCTOP.jpg "Top physical shot of final pcb main board")
 ![PCBMCBOT. Bottom physical shot of final main board](/photos/JLPCBMCBOT.jpg "Bottom physical shot of final main board")
