@@ -2,8 +2,11 @@
 title: Microcontroller Selection
 ---
 
-# 7.0 Microcontroller Selection 
-## 7.1 Microcontroller Comparison
+# Appendix C: Microcontroller Selection 
+
+Selecting the appropriate microcontroller is crucial for the success of any project that involves electronic devices. For Team 305's project, the selection of Microchip's microcontroller was essential. The process of selecting a microcontroller involved in identifying and evaluating the available options and choosing the one that best meets the project's requirements. The evaluation process involved in using tools such as the Microchip Parametric Search Tool to identify and compare different microcontroller options. After identifying the options that met the project's requirements, the team gathered specific information about each microcontroller and assessed how each option met the project-specific requirements. The evaluation process included filling out a template that was provided and identifying the overall pros and cons of each option and ranking them based on how well they meet the project's needs. Finally, the team chose the microcontroller that best meets their requirements and provided a clear justification for their selection based on data-driven analysis. 
+
+## Microcontroller Comparison
 
 | **Determine your project-specific requirements**                                                          |                                                                                                                                                                                                                                                             | **Look up specifications in the PIC datasheet** |                                                                      |                                                 |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
