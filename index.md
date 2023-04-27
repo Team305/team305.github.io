@@ -57,7 +57,7 @@ From there, ranking, organizing, and idea recombination was possible. It was com
 
 The following design in Section 5.0 is the most current ideation for the Greenhouse Climate Monitoring System. Following the Design Ideation phase, Team 305 determined that a modular temperature sensing rail was the best approach to sense light an temperature. Since I2C was the chosen form of communication for the sensing units, this would allow multiple sensors to be physically connected to the MCU. For the purposes of this project, only two sensors have been depicted in the rendering found in Section 5.0. 
 
-## [6.0: Component Selection](/ComponentSelections)
+## [6.0: Final Component Selection](/FinalComponentSelections)
 
 Team 305 determined the components needed by comparing the pros and cons of the different components. For each component needed - three options were compared. From these options only one component was selected by each team member. A justification as to why that specific component was the best choice is also provided in this section. 
 
@@ -70,11 +70,11 @@ Selecting the appropriate microcontroller is crucial for the success of any proj
 This block diagram provides a clear and concise representation of Team 305's subsystem organization and how they are interconnected. It is a valuable tool for system design and troubleshooting - but serves to depict how the different forms of communcation interact with the microcontroller. The microcontroller, I2C sensors, motor/controller, WiFi, and power subsystems have been included. 
 
 
-## [9.0: Hardware Proposal](/HardwareProposal)
+## [9.0: Final Hardware Implementation](/FinalHardwareImplementation)
 
 A hardware schematic was created by Team 305 once the components were selected and the block diagram was completed. Individual subsystem schematics were combined and modified to show how each subsystem is powered and how each communicates with the microcontroller. Team 305’s  schematics will serve as a reference for hardware, communication, and downstream PCB design.
 
-## [10.0: Software Proposal](/SoftwareProposal)
+## [10.0: Final Software Implementation](/FinalSoftwareImplementation)
 
 A UML software diagram was created by Team 305 once the functionality of the climate monitoring system was decided and finalized. The software proposal outlines the complete software flow and design of the climate monitoring system in easy to follow steps. The software diagram will serve as the guideline and template for how all of the climate monitoring system's code is written and formatted.
 
