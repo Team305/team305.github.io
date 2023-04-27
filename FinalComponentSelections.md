@@ -89,7 +89,7 @@ The ADP151 is a 3.3-1.8V linear voltage regulator. This chip is the optimal choi
 
 
 ## 6.2 Generated Power Budget
-![Figure 6z PowerBill](/photos/PowerBudget.jpg "Generated Power Bill")
+![Figure 6z PowerBill](/photos/PowerBudget.png "Generated Power Bill")
 
 
 
