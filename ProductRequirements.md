@@ -76,11 +76,11 @@ Answer: The team took efforts to use the data sheets and code to make it as accu
 
 2. How will we calibrate the sensors initially?
 
-Answer: The sensors calibrate togethor using I2C.
+Answer: The sensors are pre-calibrated by the manufacturer. 
 
 3. Does the Motors motion need to be directly visible?
 
-Answer: Yes the Motors need  to be directly visible o prove to guests that it is moving.
+Answer: Yes the motors need  to be directly visible to prove to guests that it is moving.
 
 4. What are sensors that would not be recommended for use in this case?
 
