@@ -71,35 +71,48 @@ The following product aspects encompass the core functionality of the Team 305 w
 ## 3.5 Open Questions
 
 1. When creating the weather module, how accurate can we make the sensors using the components we have?
-Answer: 
+
+Answer: The team took efforts to use the data sheets and code to make it as accurate as they could with the components they had.
 
 2. How will we calibrate the sensors initially?
-Answer:
+
+Answer: The sensors calibrate togethor using I2C.
 
 3. Does the Motors motion need to be directly visible?
-Answer:
+
+Answer: Yes the Motors need  to be directly visible o prove to guests that it is moving.
 
 4. What are sensors that would not be recommended for use in this case?
-Answer:
+
+Answer: Traditional glass thermometers, soil moisture sensors, pyranometers, and sonic anemometers are a few sensors that the team does not advise using. These are mentioned since each component has unique undesirable characteristics. For instance, weak, cumbersome, hefty, and power hungry.
 
 5. What is the expected life span of the sensors on average?
-Answer:
+
+Answer: When it comes to the lifespan of sensors, several factors may be at play. The sensors may endure for years, provided they are in excellent condition and the atmosphere is at the ideal temperature.
 
 ## 3.7 Milestones 
+
+3x4 Design Ideation - 01/20/2023
 
 314 Team Checkpoint 1 - 01/23/2023
 
 3x4 Block Diagram - 01/30/2023
 
+3x4 Component - Selection 02/01/2023
+
+314 Microcontroller Selection - 02/08/2023
+
 3x4 Software Proposal - 02/15/2023
 
 3x4 Hardware Proposal - 02/22/2023
 
-314 Team System Prototype (recommended) - 03/17/2023
+3x4 Team Checkpoint 2 - 02/27/2023
+
+314 Team System Prototype - (recommended) - 03/17/2023
 
 3x4 Hardware Implementation - 03/24/2023
 
-314 Team System Prototype (final deadline) - 03/17/2023
+314 Team System Prototype - (final deadline) - 03/17/2023
 
 3x4 Software Implementation - 04/19/2023
 
