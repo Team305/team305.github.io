@@ -1,8 +1,8 @@
 ---
-title: Software Proposal
+title: Final Software Implementation
 ---
 
-# 10.0 Software Proposal 
+# 10.0 Final Software Implementation 
 ## 10.1 Software UML Diagram
 
 ![Figure 1: Software Proposal Diagram](/photos/SoftwareProposal.jpg "Figure 10a: Software Proposal UML Diagram.")
