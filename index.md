@@ -78,6 +78,8 @@ A hardware schematic was created by Team 305 once the components were selected a
 
 A UML software diagram was created by Team 305 once the functionality of the climate monitoring system was decided and finalized. The software proposal outlines the complete software flow and design of the climate monitoring system in easy to follow steps. The software diagram will serve as the guideline and template for how all of the climate monitoring system's code is written and formatted.
 
+## [11.0: System Verification](/SystemVerification)
+
 ## Lessons Learned & Recommendations
 
 ### Lessons Learned
