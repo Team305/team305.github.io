@@ -78,6 +78,30 @@ A hardware schematic was created by Team 305 once the components were selected a
 
 A UML software diagram was created by Team 305 once the functionality of the climate monitoring system was decided and finalized. The software proposal outlines the complete software flow and design of the climate monitoring system in easy to follow steps. The software diagram will serve as the guideline and template for how all of the climate monitoring system's code is written and formatted.
 
+## Lessons Learned & Recommendations
+
+### Lessons Learned
+
+1. Choosing a microcontroller that has lots of features is not necessarily a good thing. It complicates the verification process, makes it difficult to de-bug, and increases the chances of the MCU not functioning as intended.
+2. Verifying each subsystem independent of each other is the best way to make sure the design will function as intended.
+3. Ordering enough parts is really important - along with getting the part orders submitted correctly. Having backup PCBs for each subsystem is important in case something goes wrong during testing.
+4. Working as a team is really important - verifying another group member's subsystem can help everyone learn. It ensures that things were soldered correctly by the group member responsible and that the subsystem functions as intended.
+5. Testing the software as early as possible will free up time later in the project. Something always goes wrong; hardware fails and unintentional consequences of testing will consume large amounts of time.
+6. Working as a group to complete PCB designs is important - not only for the functionality of the final design - but also to streamline the use of software that is not intuitive (like Cadence).
+7. Verify that the PCB was manufactured correctly before soldering components on the board. Continuity checks for each trace - along with continuity checks for vias - will streamline hardware implementation later on.
+8. Minimize the design features as much as possible - without compromising the functionality of the final product. If something breaks (which usually happens during testing) it will be easier to fix. An example of this can be seen with the group's selection of a MCU - 64 pins was a lot to verify the first MCU broke, especially on such a small component package.
+9. Communicate with your group on a regular basis to ensure everyone stays on task. Make sure that there is plenty of group time to collaborate as one, instead of working independent of each other.
+10. Using an oscilloscope to verify SPI or I2C protocol functionality is a fantastic way to show that sensors are working as intended. It is a very powerful tool that can be used to identify problems in hardware and software implementation.
+
+### Recommendations for Future Students
+
+1. Order lots of extra parts, something always breaks and hardware orders take a long time to re-submit.
+2. Do not choose small components and make sure they have a package with chisel tip leads. Make sure all components share the save logic level before deciding on what parts to use.
+3. Communicate on a regular basis with the group to make sure everyone has what they need to complete assignments and implement selected designs.
+4. Verify subsystem functionality using an oscilloscope - especially for sensors.
+5. Write software as a group and show a TA or professor before trying to compile the code.
+
+
 ## Presentation Videos:
 ### [Checkpoint 1 Presentation](/Presentation1)
 
