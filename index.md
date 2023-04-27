@@ -108,3 +108,8 @@ A UML software diagram was created by Team 305 once the functionality of the cli
 ### [Appendix B: Component Selection](/AppendixB)
 ### [Appendix C: Microcontroller Selection](/AppendixC)
 ### [Appendix D: Bill of Materials](/AppendixD)
+### [Appendix E: MQTT Topic Table and C Code](/AppendixE)
+
+## Other links
+## [Link to the site repository](https://github.com/Team305/team305.github.io)
+## [Link to the code repository](https://github.com/Team305/team305code.github.io)
