@@ -25,10 +25,10 @@ The schematic provided fits the user's requirements for a practical, user-friend
 [![PCBMCTOP. Top screenshot of final pcb sensor board](/photos/PCBSNTOP.png "Top screenshot of final pcb sensor board")]
 [![PCBMCBOT. Bottom screenshot of final pcb sensor board](/photos/PCBSNBOT.png "Bottom screenshot of final pcb sensor board")]
 
-[![PCBMCTOP. Top physical shot of final pcb main board](/photos/JLPCBMCTOP.jpg "Top physical shot of final pcb main board")]
-[![PCBMCBOT. Bottom physical shot of final main board](/photos/JLPCBMCBOT.jpg "Bottom physical shot of final main board")]
-[![PCBMCTOP. Top physical shot of final pcb sensor board](/photos/JLPCBSNTOP.jpg "Top physical shot of final pcb sensor board")]
-[![PCBMCBOT. Bottom physical shot of final pcb sensor board](/photos/JLPCBSNBOT.jpg "Bottom physical shot of final pcb sensor board")]
+![PCBMCTOP. Top physical shot of final pcb main board](/photos/JLPCBMCTOP.jpg "Top physical shot of final pcb main board")
+![PCBMCBOT. Bottom physical shot of final main board](/photos/JLPCBMCBOT.jpg "Bottom physical shot of final main board")
+![PCBMCTOP. Top physical shot of final pcb sensor board](/photos/JLPCBSNTOP.jpg "Top physical shot of final pcb sensor board")
+![PCBMCBOT. Bottom physical shot of final pcb sensor board](/photos/JLPCBSNBOT.jpg "Bottom physical shot of final pcb sensor board")
 
 ## 9.4 Version 2.0
 
