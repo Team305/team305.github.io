@@ -107,3 +107,4 @@ A UML software diagram was created by Team 305 once the functionality of the cli
 
 ## Appendicies
 ### [Appendix A: Communication Procedures](/AppendixA)
+### [Appendix D: Bill of Materials](/AppendixD)
