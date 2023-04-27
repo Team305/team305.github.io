@@ -1,5 +1,5 @@
 ---
-title: Block Diagram
+title: Final Block Diagram
 ---
 
 # 8.0 Final Block Diagram
