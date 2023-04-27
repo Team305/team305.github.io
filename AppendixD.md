@@ -1,5 +1,5 @@
 ---
-title: Final Hardware Implementation Appendix
+title: Bill of Materials
 ---
 
 ## Appendix D: Bill of materials
