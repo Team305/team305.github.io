@@ -45,7 +45,7 @@ These organized needs and the course requirements allowed for Team 305 to develo
 
 ## [3.0: Product Requirements](/ProductRequirements)
 
-EGR 314 students were given the task of working in groups of four to develop a mobile weather station that will be displayed at the Innovation Showcase on April 28, 2023. Each team had the flexibility to select a minimum of two serial sensors and a minimum of one actuator that uses an I2C or SPI-based interface. It is crucial that the class develops original concepts that are not copies of already-existing ones. The following are some suggestions for the class’s possible serial sensors: temperature, humidity, light, atmospheric pressure, and wind speed. Solar panels, fan controllers, and humidity control are a few ideas for an actuator that may be controlled to react in a certain way.
+The current product is designed to sense temperature and light using I2C protocol. A motor is used to move the sensor array while readings are being taken by the sensors. Power is provided with a 120V AC to 9V DC adapter - the logic of the MCU and sensors utilize 3.3V provided by a switching regulator (9V DC to 3.3V DC). Two PCBs were manufactured; one for the microcontroller and another for sensor array. The microcontroller is housed in a custom 3D printed protective enclosure. 
 
 ## [4.0: Design Ideation](/DesignIdeation)
 
@@ -55,7 +55,7 @@ From there, ranking, organizing, and idea recombination was possible. It was com
 
 ## [5.0: Final Selected Design](/FinalSelectedDesign)
 
-The following design in Section 5.0 is the most current ideation for the Greenhouse Climate Monitoring System. Following the Design Ideation phase, Team 305 determined that a modular temperature sensing rail was the best approach to sense light an temperature. Since I2C was the chosen form of communication for the sensing units, this would allow multiple sensors to be physically connected to the MCU. For the purposes of this project, only two sensors have been depicted in the rendering found in Section 5.0. 
+Following the Design Ideation phase, Team 305 determined that a modular temperature sensing rail was the best approach to sense light an temperature. Since I2C was the chosen form of communication for the sensing units, this would allow multiple sensors to be physically connected to the MCU. For the purposes of this project, only two sensors have been depicted in the rendering found in Section 5.0. 
 
 ## [6.0: Final Component Selection](/FinalComponentSelections)
 
@@ -75,6 +75,8 @@ A hardware schematic was created by Team 305 once the components were selected a
 A UML software diagram was created by Team 305 once the functionality of the climate monitoring system was decided and finalized. The software proposal outlines the complete software flow and design of the climate monitoring system in easy to follow steps. The software diagram will serve as the guideline and template for how all of the climate monitoring system's code is written and formatted.
 
 ## [10.0: System Verification](/SystemVerification)
+
+See System Verification for details. 
 
 ## Lessons Learned & Recommendations
 
