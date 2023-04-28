@@ -36,7 +36,7 @@ Upon completion of idea bin sorting, three product concept sketches were drawn. 
 
 ![Figure 4J: Product Concept 3.](/photos/Figure4j.png "Figure 4J: Product Concept 3.")
 
-The final design concept was settled on by assessing our group capabilities, addressing the availability of components, and deciding which design satisfies the product requirements best. The light/temperature sensor design also provided the greatest challenge and maximized potential for the group to learn.
+The final design concept was settled on by assessing our group capabilities, addressing the availability of components, and deciding which design satisfies the product requirements best. Choosing the light/temperature sensor design with the moving rail also provided the greatest challenge and maximized potential for the group to learn.
 
 
 [click here to return to index](/index)
