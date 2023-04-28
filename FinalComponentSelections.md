@@ -91,6 +91,7 @@ The ADP151 is a 3.3-1.8V linear voltage regulator. This chip is the optimal choi
 ## 6.2 Generated Power Budget
 ![Figure 6z PowerBill](/photos/PowerBudget.png "Generated Power Bill")
 
+All of the design's power needs have been assessed in the power budget. A 1.5A 120V AC to 9V DC adapter will be required - coupled with a 9V DC to 3.3V DC switching regulator. 
 
 
 [click here to return to index](/index)
