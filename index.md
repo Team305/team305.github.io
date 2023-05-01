@@ -18,7 +18,7 @@ _**Last Rev.: 26-Feb-23**_
 
 **Spring 2023**
 
-## Table of Contents
+## <span id="TOC1"></span>Table of Contents
 
 <span id="user-content-I1"></span>
 <span id="user-content-TO1"></span>
@@ -37,6 +37,7 @@ _**Last Rev.: 26-Feb-23**_
 <span id="user-content-OL1"></span>
 <span id="user-content-TOC1"></span>
 
+| Section # | Title |
 | :--- | :--- |
 | 0.0 | [Introduction](#I1) |
 | 1.0 | [Team Organization](#TO1) |
