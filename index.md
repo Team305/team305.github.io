@@ -22,7 +22,7 @@ _**Last Rev.: 26-Feb-23**_
 
 | Section # | Link |
 | :--- | :--- |
-| 0.0 | 'Introduction' |
+| 0.0 | [Introduction](#Introduction) |
 | 1.0 | Team Organization |
 | 2.0 | User Needs and Benchmarking |
 | 3.0 | Product Requirements |
@@ -36,7 +36,7 @@ _**Last Rev.: 26-Feb-23**_
 | 11.0 | Lessons Learned & Recommendations |
 
 
-## [Introduction](#Introduction)
+## Introduction
 
 EGR 314 Students were given the task of working in groups of four to develop a mobile weather station that will be displayed at the Innovation Showcase on April 28, 2023. Each team had the flexibility to select a minimum of two serial sensors and a minimum of one actuator that uses an I2C or SPI-based interface. The possible serial sensors many include temperature, humidity, light, atmospheric pressure, and wind speed. Solar panels, fan controllers, and humidity control.
 
