@@ -1,3 +1,9 @@
+---
+title: Table of Figures
+---
+
+# Table of Figures
+
 | Figure # | Figure Name - Location |
 | --- | --- |
 | 01 | Figure 2a - User Needs and Benchmarking |
@@ -63,3 +69,6 @@
 | 61 | Figure6r - Appendix B |
 | 62 | PowerBudget - Appendix B|
 | 63 | MQTTTable - Appendix E |
+
+[click here to return to index](/index)
+
