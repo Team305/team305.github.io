@@ -20,6 +20,9 @@ _**Last Rev.: 26-Feb-23**_
 
 ## Table of Contents
 
+<span id="user-content-Introduction1"></span>
+<span id="user-content-TeamOrganization1"></span>
+
 | Section # | Link |
 | :--- | :--- |
 | 0.0 | [Introduction](#Introduction1) |
