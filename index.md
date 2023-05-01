@@ -64,7 +64,6 @@ To design a reliable weather monitoring system that can meet user needs and clas
 In summary, Team 305’s weather monitoring system is unique and uses solutions that utilizes the latest technology to produce accurate and dependable data, while being cost effective. The weather monitoring system designed utilizes two serial sensors and a motor controlled actuator that communicate using I2C/SPI protocols. The product designed is fully operational and cost effective. Overall the original goals of the project were met - which included creating a functional product, improving the aesthetics of the finished product, meeting EGR 314 goals and requirements, enhancing each team member’s skills, encouraging skill development, and implementing a cost effective design.
 
 ## <span id="TO1"></span>[1.0: Team Organization](/TeamOrganization)
-#### <span id="TOC1"></span>*Back to Table of Contents*
 
 ### Team Charter
 
@@ -73,6 +72,8 @@ The vision of Team 305 is to develop a weather monitoring system with the abilit
 This product will be unique by utilizing two serial sensors and a motor-controlled actuator communicating through I2C or SPI. A successful project will be fully functional, simplistic in design, reliable, and cost effective.
 
 See Team Organization for goals and mission statement. 
+
+[*Back to Table of Contents*](#TOC1)
 
 ## <span id="UN&B1"></span>[2.0: User Needs and Benchmarking](/UserNeeds)
 
