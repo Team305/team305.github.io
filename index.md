@@ -35,7 +35,7 @@ _**Last Rev.: 26-Feb-23**_
 | 11.0 | Lessons Learned & Recommendations |
 
 
-## Introduction
+## [Introduction]
 
 EGR 314 Students were given the task of working in groups of four to develop a mobile weather station that will be displayed at the Innovation Showcase on April 28, 2023. Each team had the flexibility to select a minimum of two serial sensors and a minimum of one actuator that uses an I2C or SPI-based interface. The possible serial sensors many include temperature, humidity, light, atmospheric pressure, and wind speed. Solar panels, fan controllers, and humidity control.
 
@@ -95,7 +95,7 @@ A UML software diagram was created by Team 305 once the functionality of the cli
 
 See System Verification for details. 
 
-## Lessons Learned & Recommendations
+## [Lessons Learned & Recommendations]
 
 ### Lessons Learned
 
@@ -119,16 +119,16 @@ See System Verification for details.
 5. Save functional versions of code after a succesful test. Work as a group to incorporate this code into the final software ddesign.
 
 
-## Presentation Videos:
+## [Presentation Videos:]
 ### [Checkpoint 1 Presentation](/Presentation1)
 
-## Appendicies
+## [Appendicies]
 ### [Appendix A: Communication Procedures](/AppendixA)
 ### [Appendix B: Component Selection](/AppendixB)
 ### [Appendix C: Microcontroller Selection](/AppendixC)
 ### [Appendix D: Bill of Materials](/AppendixD)
 ### [Appendix E: MQTT Topic Table and C Code](/AppendixE)
 
-## Other links
+## [Other links]
 ## [Link to the site repository](https://github.com/Team305/team305.github.io)
 ## [Link to the code repository](https://github.com/Team305/team305code.github.io)
