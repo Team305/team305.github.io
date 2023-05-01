@@ -23,7 +23,7 @@ _**Last Rev.: 26-Feb-23**_
 | Section # | Link |
 | :--- | :--- |
 | 0.0 | [Introduction](#Introduction) |
-| 1.0 | [1.0: Team Organization](#1.0: Team Organization) |
+| 1.0 | [1.0: Team Organization](#1.0:-Team-Organization) |
 | 2.0 | User Needs and Benchmarking |
 | 3.0 | Product Requirements |
 | 4.0 | Design Ideation |
