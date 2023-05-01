@@ -37,7 +37,7 @@ _**Last Rev.: 26-Feb-23**_
 <span id="user-content-OL1"></span>
 <span id="user-content-TOC1"></span>
 
-| Section # | Title |
+| Section # | Links |
 | :--- | :--- |
 | 0.0 | [Introduction](#I1) |
 | 1.0 | [Team Organization](#TO1) |
