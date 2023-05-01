@@ -81,9 +81,13 @@ After establishing Team 305’s mission and charter, the group moved onto produc
 
 These organized needs and the course requirements allowed for Team 305 to develop a clear perspective of the overall product requirement needed. Specifications and aspects for Team 305’s concept were developed by identifying critical requirements specified by users and our own ideas about what features should be included. For example, almost every user specified explicitly that the weather station was easy to use. With this kind of information Team 305 was able to make a clear list of the product requirements. 
 
+[*Back to Table of Contents*](#TOC1)
+
 ## <span id="PR1"></span>[3.0: Product Requirements](/ProductRequirements)
 
 The current product is designed to sense temperature and light using I2C protocol. A motor is used to move the sensor array while readings are being taken by the sensors. Power is provided with a 120V AC to 9V DC adapter - the logic of the MCU and sensors utilize 3.3V provided by a switching regulator (9V DC to 3.3V DC). Two PCBs were manufactured; one for the microcontroller and another for sensor array. The microcontroller is housed in a custom 3D printed protective enclosure. 
+
+[*Back to Table of Contents*](#TOC1)
 
 ## <span id="DI1"></span>[4.0: Design Ideation](/DesignIdeation)
 
@@ -91,25 +95,37 @@ From the generated user needs and product requirements, Team 305 was able to beg
 
 From there, ranking, organizing, and idea recombination was possible. It was completed by creating a ranking system and placing the rank on each sticky note. A rank of 5 was deemed to be most important, while a rank of 1 was decided to be least important. The ranks allowed each group member to take the highest ranked features and group them into a concept “bin”. Each bin was then sketching into a concept. Concept 1 was sketched by Aaron K., Concept 2 was sketched by Kevin H., and Concept 3 was sketched by Tristan D. 
 
+[*Back to Table of Contents*](#TOC1)
+
 ## <span id="FSD1"></span>[5.0: Final Selected Design](/FinalSelectedDesign)
 
 Following the Design Ideation phase, Team 305 determined that a modular temperature sensing rail was the best approach to sense light an temperature. Since I2C was the chosen form of communication for the sensing units, this would allow multiple sensors to be physically connected to the MCU. For the purposes of this project, only two sensors have been depicted in the rendering found in Section 5.0. 
+
+[*Back to Table of Contents*](#TOC1)
 
 ## <span id="FCS1"></span>[6.0: Final Component Selection](/FinalComponentSelections)
 
 Team 305 determined the components needed by comparing the pros and cons of the different components. For each component needed - three options were compared. From these options only one component was selected by each team member. A justification as to why that specific component was the best choice is also provided in this section. For more information about the component selection and microcontroller selection processes, please see [Appendix B: Component Selection](/AppendixB) and [Appendix C: Microcontroller Selection](/AppendixC).
 
+[*Back to Table of Contents*](#TOC1)
+
 ## <span id="FBD1"></span>[7.0: Final Block Diagram](/FinalBlockDiagram)
 
 This block diagram provides a clear and concise representation of Team 305's subsystem organization and how they are interconnected. It is a valuable tool for system design and troubleshooting - but serves to depict how the different forms of communcation interact with the microcontroller. The microcontroller, I2C sensors, motor/controller, WiFi, and power subsystems have been included. 
+
+[*Back to Table of Contents*](#TOC1)
 
 ## <span id="FHI1"></span>[8.0: Final Hardware Implementation](/FinalHardwareImplementation)
 
 A hardware schematic was created by Team 305 once the components were selected and the block diagram was completed. Individual subsystem schematics were combined and modified to show how each subsystem is powered and how each communicates with the microcontroller. Team 305’s  schematics will serve as a reference for hardware, communication, and downstream PCB design.
 
+[*Back to Table of Contents*](#TOC1)
+
 ## <span id="FSI1"></span>[9.0: Final Software Implementation](/FinalSoftwareImplementation)
 
 A UML software diagram was created by Team 305 once the functionality of the climate monitoring system was decided and finalized. The software proposal outlines the complete software flow and design of the climate monitoring system in easy to follow steps. The software diagram will serve as the guideline and template for how all of the climate monitoring system's code is written and formatted.
+
+[*Back to Table of Contents*](#TOC1)
 
 ## <span id="SV1"></span>[10.0: System Verification](/SystemVerification)
 
@@ -138,6 +154,8 @@ See System Verification for details.
 4. Verify subsystem functionality using an oscilloscope - especially for sensors.
 5. Save functional versions of code after a succesful test. Work as a group to incorporate this code into the final software ddesign.
 
+[*Back to Table of Contents*](#TOC1)
+
 ## <span id="PV1"></span>Presentation Videos
 ### [Checkpoint 1 Presentation](/Presentation1)
 
@@ -151,3 +169,6 @@ See System Verification for details.
 ## <span id="OL1"></span>Other Links
 ## [Link to the site repository](https://github.com/Team305/team305.github.io)
 ## [Link to the code repository](https://github.com/Team305/team305code.github.io)
+
+[*Back to Table of Contents*](#TOC1)
+
