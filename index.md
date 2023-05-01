@@ -40,7 +40,7 @@ _**Last Rev.: 26-Feb-23**_
 | :--- | :--- |
 | 0.0 | [Introduction](#I1) |
 | 1.0 | [Team Organization](#TO1) |
-| 2.0 | [User Needs and Benchmarking](/UserNeeds) |
+| 2.0 | [User Needs and Benchmarking](#UN&B1) |
 | 3.0 | Product Requirements |
 | 4.0 | Design Ideation |
 | 5.0 | Final Selected Design |
